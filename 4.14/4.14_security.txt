@@ -1,0 +1,99 @@
+
+CVEs fixed in 4.14:
+  CVE-2017-16647: baedf68a068ca29624f241426843635920f16e1d net: usb: asix: fill null-ptr-deref in asix_suspend
+  CVE-2017-16649: 2cb80187ba065d7decad7c6614e35e07aec8a974 net: cdc_ether: fix divide by 0 on bad descriptors
+  CVE-2017-16650: 7fd078337201cf7468f53c3d9ef81ff78cb6df3b net: qmi_wwan: fix divide by 0 on bad descriptors
+
+CVEs fixed in 4.14.1:
+  CVE-2017-16537: 16edf1a6a8a52040841e3e875c76bad0aa28f85f media: imon: Fix null-ptr-deref in imon_probe
+  CVE-2017-16646: 75d9dd294e2a41ddce75cc02d1675a9cf40873fc media: dib0700: fix invalid dvb_detach argument
+
+CVEs fixed in 4.14.2:
+  CVE-2017-16994: bbce81fc966f59421e5f54c4bd3d3a4670f45e33 mm/pagewalk.c: report holes in hugetlb ranges
+
+CVEs fixed in 4.14.3:
+  CVE-2017-16536: 5a482b8a75500ec7516f3d11c7fb063e3f4abc45 cx231xx-cards: fix NULL-deref on missing association descriptor
+
+CVEs fixed in 4.14.6:
+  CVE-2017-0861: 0482dcd51004920b13b59995b7afb66df49937da ALSA: pcm: prevent UAF in snd_pcm_info
+  CVE-2017-1000407: a52c2829cd60492fc75bafc323145cab1af915f5 KVM: VMX: remove I/O port 0x80 bypass on Intel hosts
+  CVE-2017-17807: 69d5894ce0a67d37f900d2597fc0b2b8cef6c863 KEYS: add missing permission check for request_key() destination
+
+CVEs fixed in 4.14.8:
+  CVE-2017-16911: b6a2ad646c13bb9d1231bce5599cb3176ff33ca4 usbip: prevent vhci_hcd driver from leaking a socket pointer address
+  CVE-2017-16912: 7120d742ad8d0f1fe37e4b73827e166fc1e01eea usbip: fix stub_rx: get_pipe() to validate endpoint number
+  CVE-2017-16913: 1621db059603e781f61a9bf33cba639b42faf0bc usbip: fix stub_rx: harden CMD_SUBMIT path to handle malicious input
+  CVE-2017-16914: d78a5506cf0ea112124c1ffa5c0aae09b579d96d usbip: fix stub_send_ret_submit() vulnerability to null transfer_buffer
+  CVE-2017-17558: 4c5ae6a301a5415d1334f6c655bebf91d475bd89 USB: core: prevent malicious bNumInterfaces overflow
+  CVE-2017-17805: c68b31521d5fb7216cb1113130399afe65437c6c crypto: salsa20 - fix blkcipher_walk API usage
+  CVE-2017-17806: 902ae89f841de0c8d2857919296923f6332e174f crypto: hmac - require that the underlying hash algorithm is unkeyed
+
+CVEs fixed in 4.14.9:
+  CVE-2017-16995: 6e12ea4fb45ca86cdd7425276b6993455fee947a bpf: fix incorrect sign extension in check_alu_op()
+  CVE-2017-16996: bf5ee24e87e39548bf30d4e18e479e61a5a98336 bpf: fix incorrect tracking of register size truncation
+  CVE-2017-17852: 6c8e098d0324412d4ae9e06c7e611a96b87faf80 bpf: fix 32-bit ALU op verification
+  CVE-2017-17853: 4d54f7df5131d67f653f674003ec5f52c9818b53 bpf/verifier: fix bounds calculation on BPF_RSH
+  CVE-2017-17854: de31796c052e47c99b1bb342bc70aa826733e862 bpf: fix integer overflows
+  CVE-2017-17855: cb56cc1b292b8b3f787fad89f1208f8e98d12c7d bpf: don't prune branches when a scalar is replaced with a pointer
+  CVE-2017-17856: c90268f7cbee0781331b96d1423d0f28a6183889 bpf: force strict alignment checks for stack pointers
+  CVE-2017-17857: 2120fca0ecfb4552d27608d409ebd3403ce02ce4 bpf: fix missing error return in check_stack_boundary()
+  CVE-2017-17862: 2b3ea8ceb2bb71e9e58527661261dba127137d9b bpf: fix branch pruning logic
+  CVE-2017-17863: de31796c052e47c99b1bb342bc70aa826733e862 bpf: fix integer overflows
+  CVE-2017-17864: cb56cc1b292b8b3f787fad89f1208f8e98d12c7d bpf: don't prune branches when a scalar is replaced with a pointer
+
+CVEs fixed in 4.14.11:
+  CVE-2017-15129: dd9a2648b3e35c2369f580215d916baf7e23253a net: Fix double free and memory corruption in get_net_ns_by_id()
+  CVE-2017-17449: e3fb538e5715250d6a61a26925215229f2e9f52f netlink: Add netns check on taps
+  CVE-2017-17712: 3bc400bad0e003d40a0a2412411aed7cbae16f96 net: ipv4: fix for a race condition in raw_sendmsg
+
+CVEs fixed in 4.14.13:
+  CVE-2017-18075: 7156c794b8ab462705e6ac80c5fa69565eb44c62 crypto: pcrypt - fix freeing pcrypt instances
+
+CVEs fixed in 4.14.14:
+  CVE-2017-13216: 242e20a5b3cc2b99ace977546d3cffc6a2a35991 staging: android: ashmem: fix a race condition in ASHMEM_SET_SIZE ioctl
+  CVE-2017-17741: 653c41ac4729261cb356ee1aff0f3f4f342be1eb KVM: Fix stack-out-of-bounds read in write_mmio
+  CVE-2018-5332: 5d127d15ad2f9f33af788f1edf720ba29317f55b RDS: Heap OOB write in rds_message_alloc_sgs()
+  CVE-2018-5333: 5edbe3c0249f54578636b71377861d579b1781cf RDS: null pointer dereference in rds_atomic_free_op
+
+CVEs fixed in 4.14.15:
+  CVE-2018-1000004: c3162384aed4cfe3f1a1f40041f3ba8cd7704d88 ALSA: seq: Make ioctls race-free
+  CVE-2018-6927: 17ae6ccfe5dd85605dc44534348b506f95d16a61 futex: Prevent overflow by strengthen input validation
+
+CVEs fixed in 4.14.16:
+  CVE-2017-17448: 671624872144abc37bc5e8f3b27987890f6e87f3 netfilter: nfnetlink_cthelper: Add missing permission checks
+  CVE-2017-17450: 19848ca7b7dad5153860239c893c1eadd603217e netfilter: xt_osf: Add missing permission checks
+
+CVEs fixed in 4.14.17:
+  CVE-2018-5344: d5e06a1867210049bbfe27864ee0a40cfd9b1e9b loop: fix concurrent lo_open/lo_release
+
+Outstanding CVEs:
+  CVE-2004-0230: (unk)  
+  CVE-2005-3660: (unk)  
+  CVE-2007-3719: (unk)  
+  CVE-2008-2544: (unk)  
+  CVE-2008-4609: (unk)  
+  CVE-2010-4563: (unk)  
+  CVE-2010-5321: (unk)  
+  CVE-2011-4917: (unk)  
+  CVE-2012-4542: (unk)  
+  CVE-2013-7445: (unk)  
+  CVE-2015-2877: (unk)  
+  CVE-2015-8553: (unk)  
+  CVE-2016-8660: (unk)  
+  CVE-2017-1000405: (unk) mm, thp: Do not make page table dirty unconditionally in touch_p[mu]d() 
+  CVE-2017-13220: (unk)  
+  CVE-2017-13693: (unk)  
+  CVE-2017-13694: (unk)  
+  CVE-2017-13695: (unk)  
+  CVE-2017-16538: (unk) media: dvb-usb-v2: lmedm04: Improve logic checking of warm start 
+  CVE-2017-16644: (unk) media: hdpvr: Fix an error handling path in hdpvr_probe() 
+  CVE-2017-17975: (unk)  
+  CVE-2017-5715: (unk)  
+  CVE-2017-5753: (unk)  
+  CVE-2017-5754: (unk)  
+  CVE-2017-8824: (unk) dccp: CVE-2017-8824: use-after-free in DCCP code 
+  CVE-2017-9986: (unk) sound: Retire OSS 
+  CVE-2018-1000026: (unk) bnx2x: disable GSO where gso_size is too big for hardware 
+  CVE-2018-5703: (unk)  
+  CVE-2018-5750: (unk)  
+  CVE-2018-6412: (unk)  

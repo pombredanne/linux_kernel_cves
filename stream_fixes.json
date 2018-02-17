@@ -1267,6 +1267,20 @@
             "fixed_version": "3.2.59"
         }
     }, 
+    "CVE-2014-1739": {
+        "3.12": {
+            "cmt_id": "2f1831612c94ee7b1819c4a6d21b9d5efac5297c", 
+            "fixed_version": "3.12.22"
+        }, 
+        "3.14": {
+            "cmt_id": "429f444ee6aea8146c115dded7b8b0214cea5e2d", 
+            "fixed_version": "3.14.6"
+        }, 
+        "3.2": {
+            "cmt_id": "5003eea6cec931203469521351918d4a54c18185", 
+            "fixed_version": "3.2.60"
+        }
+    }, 
     "CVE-2014-2038": {
         "3.12": {
             "cmt_id": "4a3cbb28c3bbb4cb24ea59a91c2607d806818b73", 
@@ -2381,6 +2395,24 @@
             "fixed_version": "3.2.56"
         }
     }, 
+    "CVE-2014-8884": {
+        "3.12": {
+            "cmt_id": "482c6cb2dfb40838d67b0ba844b4b3d0af0f3d20", 
+            "fixed_version": "3.12.33"
+        }, 
+        "3.14": {
+            "cmt_id": "c8e0fd4818f29aaafafb01f0bacf376b86e82830", 
+            "fixed_version": "3.14.25"
+        }, 
+        "3.16": {
+            "cmt_id": "36bb34da20d9e641310f5153239f65b34495b7ae", 
+            "fixed_version": "3.16.35"
+        }, 
+        "3.2": {
+            "cmt_id": "2f67670174ad4bd1c48e8b97cc107e3232d422ce", 
+            "fixed_version": "3.2.66"
+        }
+    }, 
     "CVE-2014-8989": {
         "3.12": {
             "cmt_id": "ae254fcf53097d6d83502c1a75366c7e4eface8b", 
@@ -2705,6 +2737,12 @@
             "fixed_version": "3.2.85"
         }
     }, 
+    "CVE-2014-9895": {
+        "3.2": {
+            "cmt_id": "f43c83348acdbdd8ca1af3c52f6ace629f5b386d", 
+            "fixed_version": "3.2.85"
+        }
+    }, 
     "CVE-2014-9904": {
         "3.12": {
             "cmt_id": "9deea4ddcc8f6b9708075aa307042c43b4fde732", 
@@ -2723,6 +2761,26 @@
         "3.14": {
             "cmt_id": "3480c0154964f155afef8abceb1118debaf3d5b3", 
             "fixed_version": "3.14.9"
+        }
+    }, 
+    "CVE-2014-9922": {
+        "3.16": {
+            "cmt_id": "54c202bbeb9a00042d374561c6bf2bf5d586fc11", 
+            "fixed_version": "3.16.37"
+        }, 
+        "3.2": {
+            "cmt_id": "9d6c5babc04522ff85b550f14563970279ab8f90", 
+            "fixed_version": "3.2.82"
+        }
+    }, 
+    "CVE-2014-9940": {
+        "3.16": {
+            "cmt_id": "702f4dd27ccf3bae7915ef1f8790db3af435d211", 
+            "fixed_version": "3.16.45"
+        }, 
+        "3.18": {
+            "cmt_id": "42f268023df2919f484d8b46df34b35323bd3358", 
+            "fixed_version": "3.18.52"
         }
     }, 
     "CVE-2015-0239": {
@@ -3061,6 +3119,10 @@
         "3.16": {
             "cmt_id": "9760c0f9a5a7dbfb696b799189609a3471151cb5", 
             "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "47ce8d2e1fcaac31cbe7d84882c8a6b29e201398", 
+            "fixed_version": "3.18.52"
         }, 
         "3.2": {
             "cmt_id": "e2506476534cff7bb3697fbe0654fdefd101bc80", 
@@ -3783,6 +3845,12 @@
             "fixed_version": "4.1.16"
         }
     }, 
+    "CVE-2015-7884": {
+        "4.1": {
+            "cmt_id": "b824d64b153a9683aed6730e9f093a7102c36799", 
+            "fixed_version": "4.1.17"
+        }
+    }, 
     "CVE-2015-7885": {
         "3.12": {
             "cmt_id": "39c9944afb08c26ff36ae1967497d44fcf5a87ed", 
@@ -3992,6 +4060,10 @@
         }
     }, 
     "CVE-2015-8709": {
+        "3.16": {
+            "cmt_id": "d5b3e840dbf6dd2c0f30b5982b6f5ecd49e46b12", 
+            "fixed_version": "3.16.52"
+        }, 
         "4.4": {
             "cmt_id": "03eed7afbc09e061f66b448daf7863174c3dc3f3", 
             "fixed_version": "4.4.40"
@@ -4195,6 +4267,10 @@
         "3.16": {
             "cmt_id": "b2aa2e250fe40b8413aefd8762b488d81f292c34", 
             "fixed_version": "3.16.39"
+        }, 
+        "3.18": {
+            "cmt_id": "e00f6efe21bd34a7dd1cc3520f6155180e3d8125", 
+            "fixed_version": "3.18.54"
         }
     }, 
     "CVE-2015-8956": {
@@ -4220,6 +4296,10 @@
             "cmt_id": "79cfd63480a7c4b48c6c329fab1bde569e0a4ac2", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "6d523f23bb2dadfebcda1636ee2d534259566c6c", 
+            "fixed_version": "3.18.54"
+        }, 
         "3.2": {
             "cmt_id": "08f231da62d5a411ac5594409e76606e80107e02", 
             "fixed_version": "3.2.85"
@@ -4229,6 +4309,10 @@
         "3.16": {
             "cmt_id": "311c3b32f1e591b88e1b290efdcbc79c081f8e0f", 
             "fixed_version": "3.16.40"
+        }, 
+        "3.18": {
+            "cmt_id": "6ee649ba055c71907226820070cde13079d3d49d", 
+            "fixed_version": "3.18.54"
         }, 
         "3.2": {
             "cmt_id": "d96703774345ffb7513b76058f4879ae14c298be", 
@@ -4248,6 +4332,10 @@
             "cmt_id": "16c30eea9553b0ccbb379eed34f85fbed5e2cdcd", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "f98d89173f9e16dba893806e2b99c1d7e0a10ac6", 
+            "fixed_version": "3.18.55"
+        }, 
         "3.2": {
             "cmt_id": "72bc3e471e03421dd6e1dd71762b3208af8e02a5", 
             "fixed_version": "3.2.85"
@@ -4255,6 +4343,12 @@
         "4.4": {
             "cmt_id": "4e772c53ab9836b083c21acf9d2d76805e1d133e", 
             "fixed_version": "4.4.34"
+        }
+    }, 
+    "CVE-2015-8967": {
+        "3.18": {
+            "cmt_id": "c8f417a2d6af99b2735709cb60562e0a7c8ddf62", 
+            "fixed_version": "3.18.54"
         }
     }, 
     "CVE-2015-8970": {
@@ -4281,6 +4375,30 @@
         "4.4": {
             "cmt_id": "b238717c0bb4606e2e36fc0de745306b0c900d83", 
             "fixed_version": "4.4.2"
+        }
+    }, 
+    "CVE-2015-9004": {
+        "3.12": {
+            "cmt_id": "5e08a111b0a076648039fb2a08d6e101a6af9388", 
+            "fixed_version": "3.12.68"
+        }, 
+        "3.16": {
+            "cmt_id": "08446eea4a583919b979915f4dec2fa94ac6186c", 
+            "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "5a7b3b1ec16b6bfa57752d37292988e64fcdd172", 
+            "fixed_version": "3.18.52"
+        }, 
+        "3.2": {
+            "cmt_id": "5f542f7740bc8db862b8078e6a621ee7a13427b8", 
+            "fixed_version": "3.2.95"
+        }
+    }, 
+    "CVE-2015-9016": {
+        "3.18": {
+            "cmt_id": "b6885d31d1c6b6f4ccd50535d24dbe5c3d8a7d7b", 
+            "fixed_version": "3.18.80"
         }
     }, 
     "CVE-2016-0617": {
@@ -4354,6 +4472,10 @@
             "cmt_id": "af00ae6ef5a2c73f21ba215c476570b7772a14fb", 
             "fixed_version": "3.16.36"
         }, 
+        "3.18": {
+            "cmt_id": "7da78079bae82dbaac4b88e0cb1f875e0dc52775", 
+            "fixed_version": "3.18.54"
+        }, 
         "4.4": {
             "cmt_id": "5afbd223e60a130f66bddf7598165ebe2b51f8db", 
             "fixed_version": "4.4.21"
@@ -4408,6 +4530,10 @@
         }
     }, 
     "CVE-2016-10044": {
+        "3.16": {
+            "cmt_id": "880366a6e2ef182c37b7c7317dc6d449f625b97d", 
+            "fixed_version": "3.16.43"
+        }, 
         "4.4": {
             "cmt_id": "0d9529e1b881ae80b40270b55dcbf7468be0099c", 
             "fixed_version": "4.4.24"
@@ -4474,6 +4600,14 @@
             "cmt_id": "7c3ad0d86f80618c00a5d6a267080238185038f6", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "dc57f1e18b8f484d013fd21bc89b7a5b88c3d460", 
+            "fixed_version": "3.18.52"
+        }, 
+        "3.2": {
+            "cmt_id": "2147a17048314f069838aace1d08b8c719448b50", 
+            "fixed_version": "3.2.88"
+        }, 
         "4.4": {
             "cmt_id": "56366fa0ad46a59abe2460b8acb775f7f84fbf16", 
             "fixed_version": "4.4.38"
@@ -4488,6 +4622,10 @@
             "cmt_id": "cde863587b6809fdf61ea3c5391ecf06884b5516", 
             "fixed_version": "3.16.41"
         }, 
+        "3.18": {
+            "cmt_id": "2ce649fdacd53afc430565e18124d7d72be92cb3", 
+            "fixed_version": "3.18.75"
+        }, 
         "4.4": {
             "cmt_id": "e21a3cad35bc2f4c7fff317e2c7d38eed363a430", 
             "fixed_version": "4.4.48"
@@ -4495,6 +4633,42 @@
         "4.9": {
             "cmt_id": "13e6ef99d23b05807e7f8a72f45e3d8260b61570", 
             "fixed_version": "4.9.9"
+        }
+    }, 
+    "CVE-2016-10229": {
+        "3.12": {
+            "cmt_id": "c3bfbecb1bb575278ce4812746a29c04875a2926", 
+            "fixed_version": "3.12.53"
+        }, 
+        "3.14": {
+            "cmt_id": "3acd7bf39cdb109aaaef2ec4819cca7088218a4b", 
+            "fixed_version": "3.14.77"
+        }, 
+        "3.16": {
+            "cmt_id": "f7f4fb819a8dc620ce43a435ef91327274e2a875", 
+            "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "69335972b1c1c9bd7597fc6080b6eb1bd3fbf774", 
+            "fixed_version": "3.18.45"
+        }, 
+        "3.2": {
+            "cmt_id": "18a6eba2eabbcb50a78210b16f7dd43d888a537b", 
+            "fixed_version": "3.2.76"
+        }, 
+        "4.1": {
+            "cmt_id": "5c564705d3f0436ddc70d833b975b870ba560528", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.4": {
+            "cmt_id": "dfe2042d96065f044a794f684e9f7976a4ca6e24", 
+            "fixed_version": "4.4.21"
+        }
+    }, 
+    "CVE-2016-10318": {
+        "4.4": {
+            "cmt_id": "8d693a2e67b5793ee58d106fded28902b7fd0f72", 
+            "fixed_version": "4.4.22"
         }
     }, 
     "CVE-2016-1237": {
@@ -4565,6 +4739,10 @@
         "3.16": {
             "cmt_id": "15430f775ee686b61569a0c3e74cf0b2ad57c8eb", 
             "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "c66d9b77cbda5e0e71ae0dfabaa94b27ca3f6b63", 
+            "fixed_version": "3.18.54"
         }
     }, 
     "CVE-2016-2069": {
@@ -4794,6 +4972,26 @@
         }
     }, 
     "CVE-2016-2188": {
+        "3.12": {
+            "cmt_id": "793b927173199800010a37da93c92e603a1136ce", 
+            "fixed_version": "3.12.73"
+        }, 
+        "3.16": {
+            "cmt_id": "d2d603cf8fd51f0da5e4bc809d17824faa7630f7", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "ce55817c633e5807f4645a60163f6cbc3f5af63b", 
+            "fixed_version": "3.18.49"
+        }, 
+        "3.2": {
+            "cmt_id": "6598f3d653a85dccfb4a472504ec6fd12cec8e42", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "c4b51661231242b5b24431a31299c433934cad2e", 
+            "fixed_version": "4.1.40"
+        }, 
         "4.10": {
             "cmt_id": "5ec59765f503ca208af2fa78796f7e4f842f6e00", 
             "fixed_version": "4.10.4"
@@ -4860,6 +5058,10 @@
             "cmt_id": "f9d7022955974997f1ba707ddfe8caf297e1a909", 
             "fixed_version": "3.16.35"
         }, 
+        "3.18": {
+            "cmt_id": "954e2ed41fec684048824230eb51bed0eae449ba", 
+            "fixed_version": "3.18.76"
+        }, 
         "3.2": {
             "cmt_id": "4cc2016fc314d14eb406dbd654120ae5a1bc2423", 
             "fixed_version": "3.2.77"
@@ -4885,6 +5087,10 @@
         "3.16": {
             "cmt_id": "712df95de8324fb208c3e8dd147cea69f8554ffb", 
             "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "6d4025862a080579362994eeb0095eb78dd801f2", 
+            "fixed_version": "3.18.54"
         }, 
         "3.2": {
             "cmt_id": "d60262682193d5098dc1e13cd374ddfa49ee4c8d", 
@@ -4941,6 +5147,10 @@
         "3.16": {
             "cmt_id": "ffa534e36806d454e7d7d4c2019093365846da65", 
             "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "19f609798f7ea6392028091b42dd53b3c7f9368f", 
+            "fixed_version": "3.18.54"
         }, 
         "3.2": {
             "cmt_id": "12f88515e0e99a220afdfaeeeedf2fe206fbdc24", 
@@ -5452,6 +5662,10 @@
             "cmt_id": "40180f6f7410d7e6a2472eef65c408c9648c9ef3", 
             "fixed_version": "3.16.35"
         }, 
+        "3.18": {
+            "cmt_id": "2ed13588499c3f5f0dc6b6851471178ca5a44576", 
+            "fixed_version": "3.18.54"
+        }, 
         "4.4": {
             "cmt_id": "66e5d7b47c864f1821041f77752930ec3b8dfc22", 
             "fixed_version": "4.4.18"
@@ -5667,6 +5881,12 @@
             "fixed_version": "4.4.9"
         }
     }, 
+    "CVE-2016-4568": {
+        "4.4": {
+            "cmt_id": "19a4e46b4513bab7d6b368175be2e24ad4665e5a", 
+            "fixed_version": "4.4.9"
+        }
+    }, 
     "CVE-2016-4569": {
         "3.12": {
             "cmt_id": "16e5f4c6ea671ffce2ee49e308c1e812144547d2", 
@@ -5679,6 +5899,10 @@
         "3.16": {
             "cmt_id": "84d8697290dd3b2c08be651651a02d30f62d91a7", 
             "fixed_version": "3.16.37"
+        }, 
+        "3.18": {
+            "cmt_id": "bbcf19d306745832e043e02c7b3d4f4fad82d61e", 
+            "fixed_version": "3.18.54"
         }, 
         "3.2": {
             "cmt_id": "c76456ef3f9371a7647f6dea87e8cdcc38cb33db", 
@@ -5705,6 +5929,10 @@
         "3.16": {
             "cmt_id": "d5b7dbe55864c6bb1b966971f6d4ef90d5b95e46", 
             "fixed_version": "3.16.37"
+        }, 
+        "3.18": {
+            "cmt_id": "bbb79774fcea8b92df051d1d68fcba18d884f860", 
+            "fixed_version": "3.18.54"
         }, 
         "3.2": {
             "cmt_id": "506a6ad7e521baf8e554eedfd09873f490c8a304", 
@@ -6151,6 +6379,10 @@
         "4.1": {
             "cmt_id": "1171afc4a34e2926e6e8e27c896cf328c8825ac3", 
             "fixed_version": "4.1.37"
+        }, 
+        "4.4": {
+            "cmt_id": "c50fd34e10897114a7be2120133bd7e0b4184024", 
+            "fixed_version": "4.4.65"
         }
     }, 
     "CVE-2016-6327": {
@@ -6210,6 +6442,10 @@
             "cmt_id": "18163dd15627bfa34af63299998523d8dd1a109e", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "33b738f7c5a704b729b2502669cf71c7b25ab7d6", 
+            "fixed_version": "3.18.54"
+        }, 
         "3.2": {
             "cmt_id": "f8ab792cab4a7c86288b8fba946a27a3e3119f46", 
             "fixed_version": "3.2.85"
@@ -6219,6 +6455,10 @@
         "3.16": {
             "cmt_id": "18163dd15627bfa34af63299998523d8dd1a109e", 
             "fixed_version": "3.16.40"
+        }, 
+        "3.18": {
+            "cmt_id": "33b738f7c5a704b729b2502669cf71c7b25ab7d6", 
+            "fixed_version": "3.18.54"
         }, 
         "3.2": {
             "cmt_id": "f8ab792cab4a7c86288b8fba946a27a3e3119f46", 
@@ -6295,6 +6535,10 @@
         "3.16": {
             "cmt_id": "f2ba3e2310b3967720b83126db8684c69ce41894", 
             "fixed_version": "3.16.39"
+        }, 
+        "3.18": {
+            "cmt_id": "d8333c045f045385a914013a220cd1ed54c88d48", 
+            "fixed_version": "3.18.52"
         }, 
         "3.2": {
             "cmt_id": "a06d3be52bce98746341cfb290203603fd028290", 
@@ -6435,6 +6679,28 @@
             "fixed_version": "4.4.9"
         }
     }, 
+    "CVE-2016-7913": {
+        "3.12": {
+            "cmt_id": "74e3d04ca992bedac5080ed1a817fabf71667210", 
+            "fixed_version": "3.12.70"
+        }, 
+        "3.16": {
+            "cmt_id": "e6cb39ac3f31cb5409f4078a0f0f8e7c25e48a98", 
+            "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "dff2b1e346b783fb69d736b887005e6d41f34d9b", 
+            "fixed_version": "3.18.51"
+        }, 
+        "4.1": {
+            "cmt_id": "e21b00fe6cc7de57072cb89c87e43f33af866476", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.4": {
+            "cmt_id": "0d9dac5d7cc31df50757f26bcbdfbcf47277a1b2", 
+            "fixed_version": "4.4.65"
+        }
+    }, 
     "CVE-2016-7914": {
         "3.14": {
             "cmt_id": "523ef4db4dc8f2bdbe10262a7931d01a0c02d560", 
@@ -6462,9 +6728,17 @@
             "cmt_id": "e137da9c2207aa45c353b224a12b1cecfdcb54cb", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "18377401142c65b0afe0168502fd335697e47936", 
+            "fixed_version": "3.18.54"
+        }, 
         "3.2": {
             "cmt_id": "119e11a50fc0e5218e0a0f2d7d87c0cbf1d54940", 
             "fixed_version": "3.2.85"
+        }, 
+        "4.1": {
+            "cmt_id": "f446a5928bc1ea8b6df8abbddd97674f58fe089c", 
+            "fixed_version": "4.1.43"
         }, 
         "4.4": {
             "cmt_id": "5349cdd3b49cea2d57dc05bbf3f313979751fed3", 
@@ -6501,6 +6775,16 @@
             "fixed_version": "4.4.10"
         }
     }, 
+    "CVE-2016-7917": {
+        "3.16": {
+            "cmt_id": "8a984a4795fd4432da09e170efe7d9766d0e91cf", 
+            "fixed_version": "3.16.40"
+        }, 
+        "4.4": {
+            "cmt_id": "9540baadb61ba5ed08832bb2a4cbfd876db37ff4", 
+            "fixed_version": "4.4.65"
+        }
+    }, 
     "CVE-2016-8399": {
         "4.1": {
             "cmt_id": "efcf38bd40200212ef3de3d38e11c42958f8afaa", 
@@ -6523,6 +6807,10 @@
         "3.16": {
             "cmt_id": "4952d0fe7849840bf3767051eb296e84c0e6ed52", 
             "fixed_version": "3.16.40"
+        }, 
+        "3.18": {
+            "cmt_id": "59ab6ac4aa855c38f40ab9e6501b17189e7b4089", 
+            "fixed_version": "3.18.49"
         }, 
         "3.2": {
             "cmt_id": "00a188b0e63feb83d7e78a91dee6f621a0dcbdda", 
@@ -6559,6 +6847,10 @@
         "4.1": {
             "cmt_id": "016d02981cceb7b0f3436278b71fe3ea87542e20", 
             "fixed_version": "4.1.37"
+        }, 
+        "4.4": {
+            "cmt_id": "65d30f7545ffdddcf10a59f3e54b032c5ade2e9d", 
+            "fixed_version": "4.4.65"
         }
     }, 
     "CVE-2016-8633": {
@@ -6638,6 +6930,10 @@
             "cmt_id": "0a74b364c4c2ce4bfffdbefd62cced99ad76bec9", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "703937f005ea09ac2b6da593a9cec0befcb7b22a", 
+            "fixed_version": "3.18.74"
+        }, 
         "4.4": {
             "cmt_id": "249090830942565fb0ce7c1e018d927a14282ead", 
             "fixed_version": "4.4.36"
@@ -6709,6 +7005,18 @@
         "3.16": {
             "cmt_id": "6593fe0cbdc77241f58e75d049296d1fba37d484", 
             "fixed_version": "3.16.39"
+        }, 
+        "3.18": {
+            "cmt_id": "898ef37a73f7ad23cd5030d1c845d9b00da20721", 
+            "fixed_version": "3.18.51"
+        }, 
+        "4.1": {
+            "cmt_id": "073e9973d48b1a7fa6d610fde377f3d7f4171ad6", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.4": {
+            "cmt_id": "d23ef85b123d3dbd3ba8a3c5f0ef5e556feb635e", 
+            "fixed_version": "4.4.65"
         }
     }, 
     "CVE-2016-9084": {
@@ -6719,12 +7027,36 @@
         "3.16": {
             "cmt_id": "6593fe0cbdc77241f58e75d049296d1fba37d484", 
             "fixed_version": "3.16.39"
+        }, 
+        "3.18": {
+            "cmt_id": "898ef37a73f7ad23cd5030d1c845d9b00da20721", 
+            "fixed_version": "3.18.51"
+        }, 
+        "4.1": {
+            "cmt_id": "073e9973d48b1a7fa6d610fde377f3d7f4171ad6", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.4": {
+            "cmt_id": "d23ef85b123d3dbd3ba8a3c5f0ef5e556feb635e", 
+            "fixed_version": "4.4.65"
         }
     }, 
     "CVE-2016-9120": {
         "3.16": {
             "cmt_id": "ce626e14b2fd8f1f0ff6d17a8503f12d3e991cd3", 
             "fixed_version": "3.16.40"
+        }, 
+        "3.18": {
+            "cmt_id": "f63514257efd74108711e1d4e2ca462968170c42", 
+            "fixed_version": "3.18.51"
+        }, 
+        "4.1": {
+            "cmt_id": "9c90c093b98f210d9611fac2c1f9e4f28254a55c", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.4": {
+            "cmt_id": "a7544fdd1626b65db635022c9d36007bb32dd6d8", 
+            "fixed_version": "4.4.65"
         }
     }, 
     "CVE-2016-9178": {
@@ -6776,6 +7108,10 @@
             "cmt_id": "1685cd22d7ebda79ea519457499f9cc4ced1e966", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "ffdfbf56e46b2968e85cc389664ee9224f3ff049", 
+            "fixed_version": "3.18.49"
+        }, 
         "3.2": {
             "cmt_id": "ba43cdd87d0aaed69ef1bb14a91c3e767a4c210f", 
             "fixed_version": "3.2.85"
@@ -6815,6 +7151,40 @@
         "4.9": {
             "cmt_id": "3f618a0b872fea38c7d1d1f79eda40f88c6466c2", 
             "fixed_version": "4.9.2"
+        }
+    }, 
+    "CVE-2016-9604": {
+        "3.12": {
+            "cmt_id": "7c46e24ef54c73c7db075d3ff4df0d3b996ac759", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "41bd08bfce7c33e0d383e7678e6d6c7e8e041524", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "44c037827f0aeddbbbb323930fa3d09a7b4fffca", 
+            "fixed_version": "3.18.51"
+        }, 
+        "3.2": {
+            "cmt_id": "7488aaea277dc17eb12bda22c91332c804c62965", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "4ef48e49b1c550a511acb78d7b9e0b52bb43aba6", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "4cbbfd6aafe13f8e60a763fd97501b5ec38ac827", 
+            "fixed_version": "4.10.13"
+        }, 
+        "4.4": {
+            "cmt_id": "b5737b92560efcb956d2def4dcd3f4b6d4118e58", 
+            "fixed_version": "4.4.64"
+        }, 
+        "4.9": {
+            "cmt_id": "a5c6e0a76817a3751f58d761aaff7c0b0c4001ff", 
+            "fixed_version": "4.9.25"
         }
     }, 
     "CVE-2016-9644": {
@@ -6898,6 +7268,10 @@
             "cmt_id": "756826fd4e4a25589a2e77a7ceb791314c73cf48", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "29fc5d17f274ccab37404882875f9045be10f6bd", 
+            "fixed_version": "3.18.52"
+        }, 
         "4.4": {
             "cmt_id": "77125815f058d587cac9217ac2c468038a7285c4", 
             "fixed_version": "4.4.38"
@@ -6911,6 +7285,10 @@
         "3.16": {
             "cmt_id": "afd9c2402bdfdbc813587faf7f0e8e1f94c2ee91", 
             "fixed_version": "3.16.40"
+        }, 
+        "3.18": {
+            "cmt_id": "e6ef3b68c00023ebd52721b6ad210c4af3af6d35", 
+            "fixed_version": "3.18.52"
         }, 
         "3.2": {
             "cmt_id": "5409b6c1f1b38d3fb461704d02addf55119c5230", 
@@ -6945,6 +7323,2490 @@
         "4.4": {
             "cmt_id": "49543942beb1b9ca95709d6cfa67708932aa4d11", 
             "fixed_version": "4.4.14"
+        }
+    }, 
+    "CVE-2017-0605": {
+        "3.16": {
+            "cmt_id": "a1141b19b23a0605d46f3fab63fd2d76207096c4", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.2": {
+            "cmt_id": "e39e64193a8a611d11d4c62579a7246c1af70d1c", 
+            "fixed_version": "3.2.89"
+        }
+    }, 
+    "CVE-2017-0750": {
+        "3.18": {
+            "cmt_id": "010336c795e15f358c5bd7054175833ee0203121", 
+            "fixed_version": "3.18.52"
+        }, 
+        "4.1": {
+            "cmt_id": "c5ef0e9f70d182cda057417b98cb8f88cf1dea42", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.4": {
+            "cmt_id": "716bcfeb12b8d55d278af47b927839b382d2837a", 
+            "fixed_version": "4.4.66"
+        }
+    }, 
+    "CVE-2017-0786": {
+        "3.16": {
+            "cmt_id": "7df83adfc5d38bf960ef7ff0e4cb1c2c92715f63", 
+            "fixed_version": "3.16.50"
+        }, 
+        "4.1": {
+            "cmt_id": "90747f38a8873726d7efd81112967147098a2139", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "1b9fff6661fe217d56c6257515c0effbe41d9ab7", 
+            "fixed_version": "4.13.6"
+        }, 
+        "4.4": {
+            "cmt_id": "6721969c7b8a35f85a41acaabdad190ed32cf704", 
+            "fixed_version": "4.4.93"
+        }, 
+        "4.9": {
+            "cmt_id": "4d3132d97aa753104ee35722352a895750a0fca5", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-0861": {
+        "3.18": {
+            "cmt_id": "14416b2c878b989674761118db8072bf7f0c9501", 
+            "fixed_version": "3.18.88"
+        }, 
+        "4.1": {
+            "cmt_id": "0bde6f9d1faf3d4aaf8346d8a326cf02e7ea1a3a", 
+            "fixed_version": "4.1.49"
+        }, 
+        "4.14": {
+            "cmt_id": "0482dcd51004920b13b59995b7afb66df49937da", 
+            "fixed_version": "4.14.6"
+        }, 
+        "4.4": {
+            "cmt_id": "659e7d2588f0fd970044fe00d9edeb482d375288", 
+            "fixed_version": "4.4.106"
+        }, 
+        "4.9": {
+            "cmt_id": "45ddff3ce4e9a3d7e935d5b596686d9e176ed4a9", 
+            "fixed_version": "4.9.69"
+        }
+    }, 
+    "CVE-2017-1000111": {
+        "3.16": {
+            "cmt_id": "ec26c86f4d9fe22ceb9b997aa9134f684b756282", 
+            "fixed_version": "3.16.47"
+        }, 
+        "3.18": {
+            "cmt_id": "f2ce502f866556d24ebfae84673c9ef211b79906", 
+            "fixed_version": "3.18.65"
+        }, 
+        "3.2": {
+            "cmt_id": "8f716035da0ad35d5a65668eb3c10aad6c439d7b", 
+            "fixed_version": "3.2.92"
+        }, 
+        "4.1": {
+            "cmt_id": "b7761b0cd80d832e40a46ec0078ab02596dbc350", 
+            "fixed_version": "4.1.44"
+        }, 
+        "4.12": {
+            "cmt_id": "91b2b39b49c25a0a76e3ef5302e848e6c9e60cfd", 
+            "fixed_version": "4.12.7"
+        }, 
+        "4.4": {
+            "cmt_id": "63364a508d24944abb0975bd823cb11367c56283", 
+            "fixed_version": "4.4.82"
+        }, 
+        "4.9": {
+            "cmt_id": "e5841355061332f8b326e098949490345dba776b", 
+            "fixed_version": "4.9.43"
+        }
+    }, 
+    "CVE-2017-1000112": {
+        "3.16": {
+            "cmt_id": "08676246d893e3a42a541a2ef1291f2ea62c5b06", 
+            "fixed_version": "3.16.47"
+        }, 
+        "3.18": {
+            "cmt_id": "4ac8dc208caf85675f0f745783e0a3f88dac0008", 
+            "fixed_version": "3.18.65"
+        }, 
+        "4.12": {
+            "cmt_id": "2a8c396a689114da0fb9164cd07b13fd5b800782", 
+            "fixed_version": "4.12.7"
+        }, 
+        "4.4": {
+            "cmt_id": "938990d2433cdecd225e1ab54a442b3ffdce1f87", 
+            "fixed_version": "4.4.82"
+        }, 
+        "4.9": {
+            "cmt_id": "33dc6a6a85f1d6ce71e7056d009b8a5fcbf10f70", 
+            "fixed_version": "4.9.43"
+        }
+    }, 
+    "CVE-2017-1000251": {
+        "3.16": {
+            "cmt_id": "8a7b081660857a80c3efc463b3da790c4fa0c801", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.18": {
+            "cmt_id": "090aa4651522ec35776896abe31c0a221689a14f", 
+            "fixed_version": "3.18.71"
+        }, 
+        "3.2": {
+            "cmt_id": "26d624204b5243a0c928bad4bf62560bb63f385d", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "361e3cc44419cb9387c48ea993d0ba3f381667de", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.12": {
+            "cmt_id": "8329b5e8c6cfe8af86344eb849c06ed69c0d868d", 
+            "fixed_version": "4.12.13"
+        }, 
+        "4.13": {
+            "cmt_id": "fb372097356d450b890aaadbfc45deecbe27e3e7", 
+            "fixed_version": "4.13.2"
+        }, 
+        "4.4": {
+            "cmt_id": "f7ec367c8ea7021517c9c04b0022c225d2d0785a", 
+            "fixed_version": "4.4.88"
+        }, 
+        "4.9": {
+            "cmt_id": "6300c8bfafe032187f3cbaa43dbf7d306650c5ed", 
+            "fixed_version": "4.9.50"
+        }
+    }, 
+    "CVE-2017-1000252": {
+        "4.13": {
+            "cmt_id": "c69768cc3eb4fb41a0f3c47c6d6575fd8ead57b7", 
+            "fixed_version": "4.13.5"
+        }, 
+        "4.4": {
+            "cmt_id": "7520be6a454c28955e711fdb49c81519bc537b39", 
+            "fixed_version": "4.4.90"
+        }, 
+        "4.9": {
+            "cmt_id": "3d4213fac7d10e72859112c9100d8015ce442a3a", 
+            "fixed_version": "4.9.53"
+        }
+    }, 
+    "CVE-2017-1000253": {
+        "3.12": {
+            "cmt_id": "b255044d68f190693d799263eb4dab66813f2de9", 
+            "fixed_version": "3.12.43"
+        }, 
+        "3.14": {
+            "cmt_id": "3d262151b457c3af845e460bd32a746691898a53", 
+            "fixed_version": "3.14.41"
+        }, 
+        "3.16": {
+            "cmt_id": "ea08dc5191d9a22242893768e4c3be8efb546c62", 
+            "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "954f17f76c942d6fda33d4945bba66178514538d", 
+            "fixed_version": "3.18.14"
+        }, 
+        "3.2": {
+            "cmt_id": "c3727815f928a838e845b5755b4dde4efb2841c9", 
+            "fixed_version": "3.2.70"
+        }
+    }, 
+    "CVE-2017-1000255": {
+        "4.13": {
+            "cmt_id": "c654b8387692160ced6e4dcbb3eed888d6ce10cd", 
+            "fixed_version": "4.13.6"
+        }, 
+        "4.9": {
+            "cmt_id": "afebf5ef60da6d15e75398e41ea2817c7a2bb283", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-1000363": {
+        "3.16": {
+            "cmt_id": "0a56616d2ca35da4397c48b95e71e35a26e67be5", 
+            "fixed_version": "3.16.46"
+        }, 
+        "3.18": {
+            "cmt_id": "f4615841767ff7908599e643f587078670a390c9", 
+            "fixed_version": "3.18.55"
+        }, 
+        "3.2": {
+            "cmt_id": "550845d02afb926d50d1487f9e2b954270c83963", 
+            "fixed_version": "3.2.91"
+        }, 
+        "4.1": {
+            "cmt_id": "d0e929a4e63f5b4a95a7daaf68d3738d1ec06d8c", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.11": {
+            "cmt_id": "28c7411cdbc41396dceff7e1b37dbb659f7bdfb2", 
+            "fixed_version": "4.11.3"
+        }, 
+        "4.4": {
+            "cmt_id": "cda5c7e625cefed46311cb0b37816fb2ff42a8ee", 
+            "fixed_version": "4.4.70"
+        }, 
+        "4.9": {
+            "cmt_id": "5d263d94a870a774a24acb2a2cc1e79ef39c2416", 
+            "fixed_version": "4.9.30"
+        }
+    }, 
+    "CVE-2017-1000364": {
+        "3.16": {
+            "cmt_id": "978b8aa1646d4e023edd121c7f1b8f938ccb813d", 
+            "fixed_version": "3.16.45"
+        }, 
+        "3.18": {
+            "cmt_id": "d4712eb79b17d85c9e354efa2d3156ce50736128", 
+            "fixed_version": "3.18.58"
+        }, 
+        "3.2": {
+            "cmt_id": "640c7dfdc7c723143b1ce42f5569ec8565cbbde7", 
+            "fixed_version": "3.2.90"
+        }, 
+        "4.1": {
+            "cmt_id": "8b18c6b2a0dde5186ed83a60c4915c0909cbeb0a", 
+            "fixed_version": "4.1.42"
+        }, 
+        "4.11": {
+            "cmt_id": "27f9070614aa5f05dc00e06bc288ac9e0ca7d430", 
+            "fixed_version": "4.11.7"
+        }, 
+        "4.4": {
+            "cmt_id": "4b359430674caa2c98d0049a6941f157d2a33741", 
+            "fixed_version": "4.4.74"
+        }, 
+        "4.9": {
+            "cmt_id": "cfc0eb403816c5c4f9667d959de5e22789b5421e", 
+            "fixed_version": "4.9.34"
+        }
+    }, 
+    "CVE-2017-1000365": {
+        "3.16": {
+            "cmt_id": "d7575b387f81c1a92e32c25dcb6a0e14458ae66c", 
+            "fixed_version": "3.16.46"
+        }, 
+        "3.18": {
+            "cmt_id": "2dff2164d171e9c27f2f7fa778d408ecf4d1e1ea", 
+            "fixed_version": "3.18.59"
+        }, 
+        "3.2": {
+            "cmt_id": "cea299eb189fca09c413432b807abd607385b3bc", 
+            "fixed_version": "3.2.91"
+        }, 
+        "4.1": {
+            "cmt_id": "a9cea2f13c889658769ba50d46cb0e88900e6795", 
+            "fixed_version": "4.1.43"
+        }, 
+        "4.11": {
+            "cmt_id": "fed07e89078ddfbdddb2c54f340a934e94bee2b2", 
+            "fixed_version": "4.11.8"
+        }, 
+        "4.4": {
+            "cmt_id": "1d3d0f8b7cf758136ed36b30620442d989601737", 
+            "fixed_version": "4.4.75"
+        }, 
+        "4.9": {
+            "cmt_id": "3d6848e491df6abbf5fb5b1fabb7a5df2e2b8f4f", 
+            "fixed_version": "4.9.35"
+        }
+    }, 
+    "CVE-2017-1000370": {
+        "4.1": {
+            "cmt_id": "5bb3ce649f8b42185922d90de13874d23f7ff37f", 
+            "fixed_version": "4.1.43"
+        }, 
+        "4.11": {
+            "cmt_id": "9b1bbf6ea9b2b596ba271bec23b93c48181ad896", 
+            "fixed_version": "4.11.12"
+        }, 
+        "4.12": {
+            "cmt_id": "0c9fd20c4ca8fb97f40ea66a2db39f1f9c85797d", 
+            "fixed_version": "4.12.3"
+        }, 
+        "4.4": {
+            "cmt_id": "7eb968cd04d404e6c73cd82c1122f6e06ad2d1e8", 
+            "fixed_version": "4.4.78"
+        }, 
+        "4.9": {
+            "cmt_id": "63c2f8f8c41bf80af068f0b2aef4c0e2bdc32c4a", 
+            "fixed_version": "4.9.39"
+        }
+    }, 
+    "CVE-2017-1000371": {
+        "4.1": {
+            "cmt_id": "5bb3ce649f8b42185922d90de13874d23f7ff37f", 
+            "fixed_version": "4.1.43"
+        }, 
+        "4.11": {
+            "cmt_id": "9b1bbf6ea9b2b596ba271bec23b93c48181ad896", 
+            "fixed_version": "4.11.12"
+        }, 
+        "4.12": {
+            "cmt_id": "0c9fd20c4ca8fb97f40ea66a2db39f1f9c85797d", 
+            "fixed_version": "4.12.3"
+        }, 
+        "4.4": {
+            "cmt_id": "7eb968cd04d404e6c73cd82c1122f6e06ad2d1e8", 
+            "fixed_version": "4.4.78"
+        }, 
+        "4.9": {
+            "cmt_id": "63c2f8f8c41bf80af068f0b2aef4c0e2bdc32c4a", 
+            "fixed_version": "4.9.39"
+        }
+    }, 
+    "CVE-2017-1000379": {
+        "3.16": {
+            "cmt_id": "978b8aa1646d4e023edd121c7f1b8f938ccb813d", 
+            "fixed_version": "3.16.45"
+        }, 
+        "3.18": {
+            "cmt_id": "d4712eb79b17d85c9e354efa2d3156ce50736128", 
+            "fixed_version": "3.18.58"
+        }, 
+        "3.2": {
+            "cmt_id": "640c7dfdc7c723143b1ce42f5569ec8565cbbde7", 
+            "fixed_version": "3.2.90"
+        }, 
+        "4.1": {
+            "cmt_id": "8b18c6b2a0dde5186ed83a60c4915c0909cbeb0a", 
+            "fixed_version": "4.1.42"
+        }, 
+        "4.11": {
+            "cmt_id": "27f9070614aa5f05dc00e06bc288ac9e0ca7d430", 
+            "fixed_version": "4.11.7"
+        }, 
+        "4.4": {
+            "cmt_id": "4b359430674caa2c98d0049a6941f157d2a33741", 
+            "fixed_version": "4.4.74"
+        }, 
+        "4.9": {
+            "cmt_id": "cfc0eb403816c5c4f9667d959de5e22789b5421e", 
+            "fixed_version": "4.9.34"
+        }
+    }, 
+    "CVE-2017-1000380": {
+        "3.16": {
+            "cmt_id": "334e9205dd0c61ec83dfafac51b1947584179bf1", 
+            "fixed_version": "3.16.46"
+        }, 
+        "3.18": {
+            "cmt_id": "d96c363ff004fbb42f728b3e4299a71c4e567568", 
+            "fixed_version": "3.18.57"
+        }, 
+        "3.2": {
+            "cmt_id": "7aba7242b83b6e9a56a8eb875d669cfab4eff542", 
+            "fixed_version": "3.2.91"
+        }, 
+        "4.1": {
+            "cmt_id": "5d28ba6eecdeb3bbd0f78948ca3470918aad13fa", 
+            "fixed_version": "4.1.42"
+        }, 
+        "4.11": {
+            "cmt_id": "9018818b2410fcaf51042f1c0315cc4498c6c6e9", 
+            "fixed_version": "4.11.5"
+        }, 
+        "4.4": {
+            "cmt_id": "f5bc918760c8100410847a6a6e4c25f24e358e0c", 
+            "fixed_version": "4.4.72"
+        }, 
+        "4.9": {
+            "cmt_id": "66e982d8f1a1f5e151377fe37612e9151e552dc9", 
+            "fixed_version": "4.9.32"
+        }
+    }, 
+    "CVE-2017-1000407": {
+        "3.16": {
+            "cmt_id": "02b1dd5472cee5286ab1a9eb916c036ab2f86b78", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "7389171fdc5976066573edd1fcf6c9a81d8df90f", 
+            "fixed_version": "3.18.88"
+        }, 
+        "3.2": {
+            "cmt_id": "13b86808f7fabea496c02131f49fec46a84fb3c9", 
+            "fixed_version": "3.2.97"
+        }, 
+        "4.1": {
+            "cmt_id": "6552b7695ca65e6ca412948d4aa0179df69dbc1d", 
+            "fixed_version": "4.1.49"
+        }, 
+        "4.14": {
+            "cmt_id": "a52c2829cd60492fc75bafc323145cab1af915f5", 
+            "fixed_version": "4.14.6"
+        }, 
+        "4.4": {
+            "cmt_id": "477b837533a2f592702d2affab36b8052691287b", 
+            "fixed_version": "4.4.106"
+        }, 
+        "4.9": {
+            "cmt_id": "6ead44d4b5b8b1ecfcbd2302f15028dab7774da3", 
+            "fixed_version": "4.9.69"
+        }
+    }, 
+    "CVE-2017-1000410": {
+        "3.16": {
+            "cmt_id": "8a7b081660857a80c3efc463b3da790c4fa0c801", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.18": {
+            "cmt_id": "090aa4651522ec35776896abe31c0a221689a14f", 
+            "fixed_version": "3.18.71"
+        }, 
+        "3.2": {
+            "cmt_id": "26d624204b5243a0c928bad4bf62560bb63f385d", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "361e3cc44419cb9387c48ea993d0ba3f381667de", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.12": {
+            "cmt_id": "8329b5e8c6cfe8af86344eb849c06ed69c0d868d", 
+            "fixed_version": "4.12.13"
+        }, 
+        "4.13": {
+            "cmt_id": "fb372097356d450b890aaadbfc45deecbe27e3e7", 
+            "fixed_version": "4.13.2"
+        }, 
+        "4.4": {
+            "cmt_id": "f7ec367c8ea7021517c9c04b0022c225d2d0785a", 
+            "fixed_version": "4.4.88"
+        }, 
+        "4.9": {
+            "cmt_id": "6300c8bfafe032187f3cbaa43dbf7d306650c5ed", 
+            "fixed_version": "4.9.50"
+        }
+    }, 
+    "CVE-2017-10661": {
+        "3.16": {
+            "cmt_id": "e7467c79d7dfa504587f9bc95bf180d92715c07d", 
+            "fixed_version": "3.16.47"
+        }, 
+        "3.18": {
+            "cmt_id": "4636aad518296b169546b4144eceb27d324f0fa5", 
+            "fixed_version": "3.18.52"
+        }, 
+        "3.2": {
+            "cmt_id": "1b31fcb21779ddbe0b49f519830e203fe0586688", 
+            "fixed_version": "3.2.92"
+        }, 
+        "4.1": {
+            "cmt_id": "db14464180fa453a8ba82bce8107884571d7db6d", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.10": {
+            "cmt_id": "43c1696e5e91dc946325c2968c29e60423659abc", 
+            "fixed_version": "4.10.15"
+        }, 
+        "4.4": {
+            "cmt_id": "911bd54922cdcc259daf73cb1a3a9d0305b9061d", 
+            "fixed_version": "4.4.67"
+        }, 
+        "4.9": {
+            "cmt_id": "00cca9768ebe1ac4ac16366662dd9087b6e5f4e7", 
+            "fixed_version": "4.9.27"
+        }
+    }, 
+    "CVE-2017-10662": {
+        "3.18": {
+            "cmt_id": "27f411c7ee241d194cd5fd3271d83089d70b2c20", 
+            "fixed_version": "3.18.53"
+        }, 
+        "4.1": {
+            "cmt_id": "46527f8d11fa64d3b493d03fc5c3b5ecc7d4d37a", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.10": {
+            "cmt_id": "6442a7f5d793a5d778d1f0cc62840a3f20dc1d72", 
+            "fixed_version": "4.10.16"
+        }, 
+        "4.11": {
+            "cmt_id": "c7f765b5d6bda480ae1aa2bf5734c9613d851f5f", 
+            "fixed_version": "4.11.1"
+        }, 
+        "4.4": {
+            "cmt_id": "4edbdf57bc26a126aa3cbafd63fae4b00e002e2d", 
+            "fixed_version": "4.4.68"
+        }, 
+        "4.9": {
+            "cmt_id": "93862955cbf485215f0677229292d0f358af55fc", 
+            "fixed_version": "4.9.28"
+        }
+    }, 
+    "CVE-2017-10663": {
+        "3.18": {
+            "cmt_id": "64133595b549c1036ffe8598f4c53aa355d9e3f1", 
+            "fixed_version": "3.18.64"
+        }, 
+        "4.1": {
+            "cmt_id": "604b43bbfe3bfd023d4cc6a4f9e8760f03346459", 
+            "fixed_version": "4.1.44"
+        }, 
+        "4.12": {
+            "cmt_id": "55df2e68c21714444fc3056c5636531ee9d1bc58", 
+            "fixed_version": "4.12.4"
+        }, 
+        "4.4": {
+            "cmt_id": "76517ed2a7fe059840c1984165984e69cb488568", 
+            "fixed_version": "4.4.81"
+        }, 
+        "4.9": {
+            "cmt_id": "0f442c5b2e4ac0b65027ed3374462f1c38675f7e", 
+            "fixed_version": "4.9.42"
+        }
+    }, 
+    "CVE-2017-10810": {
+        "4.11": {
+            "cmt_id": "a2746d8b78fa470f43de7b3a472f8854fb8fa423", 
+            "fixed_version": "4.11.10"
+        }, 
+        "4.4": {
+            "cmt_id": "a080ec466c3412dcf58cff69d6c05d1e670adc0c", 
+            "fixed_version": "4.4.77"
+        }, 
+        "4.9": {
+            "cmt_id": "366d9207d9e002bf1a6d9da13a7f8f85b8a40c0b", 
+            "fixed_version": "4.9.37"
+        }
+    }, 
+    "CVE-2017-10911": {
+        "3.16": {
+            "cmt_id": "d2cc7a18d6342a7025afd16aac6753ad02d788e5", 
+            "fixed_version": "3.16.46"
+        }, 
+        "3.2": {
+            "cmt_id": "cc21fe1ff77acfab555df5577ea46fc89932f3b2", 
+            "fixed_version": "3.2.91"
+        }, 
+        "4.1": {
+            "cmt_id": "516e503b7e1ea541ea3eac082ad1ee165ca6756a", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.11": {
+            "cmt_id": "b919d2dc590952b2985e43d03b2724b84e5dc2a0", 
+            "fixed_version": "4.11.8"
+        }, 
+        "4.4": {
+            "cmt_id": "11e8e55be18cd39c3d54674362aa18695b243e22", 
+            "fixed_version": "4.4.100"
+        }, 
+        "4.9": {
+            "cmt_id": "4ae2cb91a6365a6472fad7f04785cc0420ea5ada", 
+            "fixed_version": "4.9.35"
+        }
+    }, 
+    "CVE-2017-11176": {
+        "3.16": {
+            "cmt_id": "b6ec053486fa50c169eb377e53c72b2a481fbd00", 
+            "fixed_version": "3.16.47"
+        }, 
+        "3.18": {
+            "cmt_id": "7eaa7e5baa0ffb3b6ca28798f0e014f43c004f47", 
+            "fixed_version": "3.18.61"
+        }, 
+        "3.2": {
+            "cmt_id": "3557f62ec91e10cb2ac8e5f312bec0977d67803f", 
+            "fixed_version": "3.2.92"
+        }, 
+        "4.1": {
+            "cmt_id": "89e4078c6ea15ea65e3d5aa3d72e7913b7b500da", 
+            "fixed_version": "4.1.43"
+        }, 
+        "4.11": {
+            "cmt_id": "c353aee3bcd93a7529e5f971ab4dee21762c1baa", 
+            "fixed_version": "4.11.11"
+        }, 
+        "4.12": {
+            "cmt_id": "34bfc894734d56cca6c5924b5889e6308eeb66e1", 
+            "fixed_version": "4.12.2"
+        }, 
+        "4.4": {
+            "cmt_id": "034e10b4f8348c2c267e491d1e2872023c35f310", 
+            "fixed_version": "4.4.77"
+        }, 
+        "4.9": {
+            "cmt_id": "e6952841ade0f937750c7748a812cb403bd744b0", 
+            "fixed_version": "4.9.38"
+        }
+    }, 
+    "CVE-2017-11472": {
+        "4.4": {
+            "cmt_id": "4c19b00e5588828f0d3198b926efade766dcf2c8", 
+            "fixed_version": "4.4.114"
+        }, 
+        "4.9": {
+            "cmt_id": "2915f16bdce204621695e7a0dfcd5f73b120cccb", 
+            "fixed_version": "4.9.79"
+        }
+    }, 
+    "CVE-2017-11473": {
+        "3.16": {
+            "cmt_id": "52b12e5aeae7f71567348776d4f7f12b83788d15", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "7f377fc4008980278edbfd9d70ef9aa91ffa8448", 
+            "fixed_version": "3.18.63"
+        }, 
+        "3.2": {
+            "cmt_id": "96301209473afd3f2f274b91cb7082d161b9be65", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "424e53f1ee00891001808a1f5dd08a2c7efb9117", 
+            "fixed_version": "4.1.44"
+        }, 
+        "4.12": {
+            "cmt_id": "464c38d4b9365fb013c568a391a7c89b7148d72a", 
+            "fixed_version": "4.12.4"
+        }, 
+        "4.4": {
+            "cmt_id": "fa7ddee3485f17c28fe4079954c5716036de6152", 
+            "fixed_version": "4.4.79"
+        }, 
+        "4.9": {
+            "cmt_id": "036d59f40ac94964a1bbc8959f78f34efac71fd5", 
+            "fixed_version": "4.9.40"
+        }
+    }, 
+    "CVE-2017-11600": {
+        "3.16": {
+            "cmt_id": "60166dc935e2af97cae9432c0247856e2deb0b3f", 
+            "fixed_version": "3.16.48"
+        }, 
+        "3.18": {
+            "cmt_id": "0d400015a32c703273b90601574956a4452a9311", 
+            "fixed_version": "3.18.70"
+        }, 
+        "3.2": {
+            "cmt_id": "31f11713f7bb0a4cb90466331832658c0b9c9e80", 
+            "fixed_version": "3.2.93"
+        }, 
+        "4.1": {
+            "cmt_id": "ded415d815a17597d6de4555524f89ed7ea08923", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.12": {
+            "cmt_id": "6c5b60edd786fe18b7be96b26ca980aa2bef0428", 
+            "fixed_version": "4.12.11"
+        }, 
+        "4.13": {
+            "cmt_id": "7bab09631c2a303f87a7eb7e3d69e888673b9b7e", 
+            "fixed_version": "4.13"
+        }, 
+        "4.4": {
+            "cmt_id": "9b3dcc98d8df16913d260c8dae64ad6e5bfcb953", 
+            "fixed_version": "4.4.87"
+        }, 
+        "4.9": {
+            "cmt_id": "12a70ccaa6868163487f9a5ad97e1a91a397b453", 
+            "fixed_version": "4.9.48"
+        }
+    }, 
+    "CVE-2017-12134": {
+        "3.16": {
+            "cmt_id": "f664b0113d2bb8d4bcdf5d03b72eb4c433ded452", 
+            "fixed_version": "3.16.48"
+        }, 
+        "3.2": {
+            "cmt_id": "33bab9221e22bab4ddc167f6c49b6ca9c35c2ccf", 
+            "fixed_version": "3.2.93"
+        }, 
+        "4.12": {
+            "cmt_id": "c1cee6062ac9c375cda25bd2d334d54af4bd4c26", 
+            "fixed_version": "4.12.9"
+        }, 
+        "4.4": {
+            "cmt_id": "c0b397fd6b2b8ed7b39a717340b85b4b1add5332", 
+            "fixed_version": "4.4.84"
+        }, 
+        "4.9": {
+            "cmt_id": "6c7f3756d072050d612e5c5c04108f90f1985435", 
+            "fixed_version": "4.9.45"
+        }
+    }, 
+    "CVE-2017-12146": {
+        "3.18": {
+            "cmt_id": "61b0972bd40ae77fabb019e26402ac17906fcb15", 
+            "fixed_version": "3.18.61"
+        }, 
+        "4.1": {
+            "cmt_id": "5c387e92ec5c6e2d56b19f9ce4ca1cefef38d601", 
+            "fixed_version": "4.1.43"
+        }, 
+        "4.11": {
+            "cmt_id": "89488f31939230feadf0f2324ed2920888b616de", 
+            "fixed_version": "4.11.10"
+        }, 
+        "4.12": {
+            "cmt_id": "d0ccfd55b9c75b90ebcb9c56029b07eddefb1155", 
+            "fixed_version": "4.12.1"
+        }, 
+        "4.4": {
+            "cmt_id": "c01ace719ebe6353f0c96e56f6c75c22ad3f67b0", 
+            "fixed_version": "4.4.77"
+        }, 
+        "4.9": {
+            "cmt_id": "c4c592b2c137e4451b7fdf76700ae9c98db133f5", 
+            "fixed_version": "4.9.37"
+        }
+    }, 
+    "CVE-2017-12153": {
+        "3.16": {
+            "cmt_id": "ed2305f2eba403d41dc4213746f60d47273980f6", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.18": {
+            "cmt_id": "65e3664fc6087d2941e940e38beb39920e9ae032", 
+            "fixed_version": "3.18.73"
+        }, 
+        "3.2": {
+            "cmt_id": "082d8a6a55d2b6583d9e93ac9796efdf4c412658", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "621e000d660bfe0311ab38c8d2b1a778dee45ae3", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "f0e85f56f70f172ada0d06b26baff47823695629", 
+            "fixed_version": "4.13.5"
+        }, 
+        "4.4": {
+            "cmt_id": "9d74367d1a35e87f46e5e0c2e8dd9f5d21f701b0", 
+            "fixed_version": "4.4.90"
+        }, 
+        "4.9": {
+            "cmt_id": "c820441a7a52e3626aede8df94069a50a9e4efdb", 
+            "fixed_version": "4.9.53"
+        }
+    }, 
+    "CVE-2017-12154": {
+        "3.16": {
+            "cmt_id": "423a7a81efb8da25dbbcfe7a33bd8bfdce34150b", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.18": {
+            "cmt_id": "6ad74630c016ef823f2720671ee4db641d35fd2c", 
+            "fixed_version": "3.18.73"
+        }, 
+        "3.2": {
+            "cmt_id": "7999f7fc5b2ca4c0b2a96b7fb3dfa4e30274da27", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "e480290da7987e37be86140792640f42b84e915b", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "27920625f93e59b2b24bdadf946ae4b61f885f40", 
+            "fixed_version": "4.13.5"
+        }, 
+        "4.4": {
+            "cmt_id": "21a638c5efd6ec7a10441bfb94e15e5288920f07", 
+            "fixed_version": "4.4.90"
+        }, 
+        "4.9": {
+            "cmt_id": "86ef97b2dfd504fbc65f6b244a422db0c1b15797", 
+            "fixed_version": "4.9.53"
+        }
+    }, 
+    "CVE-2017-12188": {
+        "4.13": {
+            "cmt_id": "a75ac6b475ae817f4006b511b8eb2d1fbe6a5713", 
+            "fixed_version": "4.13.8"
+        }, 
+        "4.9": {
+            "cmt_id": "28955b03fac36829831e185e3ec2793f8eb18689", 
+            "fixed_version": "4.9.57"
+        }
+    }, 
+    "CVE-2017-12190": {
+        "3.16": {
+            "cmt_id": "3c885aa3b459aabc5fa04251a5fdd88e29b1de70", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "d7795bf6a9d8b004dbbd1f081f3eff18ff49276d", 
+            "fixed_version": "3.18.76"
+        }, 
+        "3.2": {
+            "cmt_id": "9ff5d8fe36745867da8a028b3ea58629f7546155", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "97c0249ef452b3ac850b812948dd992b37cdbd46", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "ffe1d63bc4570ee980a59996667c296c5be7252e", 
+            "fixed_version": "4.13.8"
+        }, 
+        "4.4": {
+            "cmt_id": "399c46095eb5d41934c8a99732028a9f1cf0ac50", 
+            "fixed_version": "4.4.93"
+        }, 
+        "4.9": {
+            "cmt_id": "5444d8ab9a1406af9f1bc2f00c26838637542480", 
+            "fixed_version": "4.9.57"
+        }
+    }, 
+    "CVE-2017-12192": {
+        "3.16": {
+            "cmt_id": "3eab231a5b5382067ab3ead172780144f9c0f721", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "6ea8051f42d965e3197ef31d4f54f75525b9439c", 
+            "fixed_version": "3.18.73"
+        }, 
+        "4.1": {
+            "cmt_id": "f6df8c11a4c89da683a46505aac8a31fe98f5339", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "069276fabc8c6aef5c4f95442fef68138f5e8020", 
+            "fixed_version": "4.13.5"
+        }, 
+        "4.4": {
+            "cmt_id": "638b38505045e1090313ff7ed284911870cd29f8", 
+            "fixed_version": "4.4.90"
+        }, 
+        "4.9": {
+            "cmt_id": "dda70d28c0ac191f128bfd3acfd800667ed86bdf", 
+            "fixed_version": "4.9.53"
+        }
+    }, 
+    "CVE-2017-12193": {
+        "3.16": {
+            "cmt_id": "c42ab77ec3454fc0d9710bd6734e241e4202d8b3", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "38dc93fa84026ef8711827fb7063744e7197b887", 
+            "fixed_version": "3.18.79"
+        }, 
+        "4.1": {
+            "cmt_id": "34a5c6ecc7ae4470cc6f415cbc3c5b97c15023fe", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "ca6711747c5a1434219ae0bd6745864a618f68b3", 
+            "fixed_version": "4.13.11"
+        }, 
+        "4.4": {
+            "cmt_id": "1cbbd99f3bfe27115c05332e7db73e23651b9f8b", 
+            "fixed_version": "4.4.96"
+        }, 
+        "4.9": {
+            "cmt_id": "67bcc5e530d55e646b7324038c926c2bde735a7e", 
+            "fixed_version": "4.9.60"
+        }
+    }, 
+    "CVE-2017-12762": {
+        "3.18": {
+            "cmt_id": "4cb1585c473ec9a5a98104e79ed07cee7de3729e", 
+            "fixed_version": "3.18.64"
+        }, 
+        "4.12": {
+            "cmt_id": "cd043db87e4c49fa909a81c0daa2a3786dacf349", 
+            "fixed_version": "4.12.5"
+        }, 
+        "4.4": {
+            "cmt_id": "d4b159f14d612132fdb1ade6d5015ee03a263e62", 
+            "fixed_version": "4.4.80"
+        }, 
+        "4.9": {
+            "cmt_id": "7b3a66739ff01fcd9b8007a18ddd29edd2cb74f7", 
+            "fixed_version": "4.9.41"
+        }
+    }, 
+    "CVE-2017-13080": {
+        "3.16": {
+            "cmt_id": "a0a8a11d1630cd648dc1ce86da620b4e240e0315", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "6891c6fd2a500d1f39d1426765f610bdc2c2a39d", 
+            "fixed_version": "3.18.82"
+        }, 
+        "3.2": {
+            "cmt_id": "ef810e7c3d2a8fb3bbd23726599c487c30ea747e", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "003aa22c9619b49efe950aca3aebd1235a04940d", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "a9ab1b2e30e898440a22d7b1d7a5b0b7c6a8791f", 
+            "fixed_version": "4.13.14"
+        }, 
+        "4.4": {
+            "cmt_id": "6440f0ee8a1779f53526bccb9de00914daeb9094", 
+            "fixed_version": "4.4.99"
+        }, 
+        "4.9": {
+            "cmt_id": "2586fa0007dc6b7745da14250be7e3aae706b128", 
+            "fixed_version": "4.9.63"
+        }
+    }, 
+    "CVE-2017-13215": {
+        "3.16": {
+            "cmt_id": "f608afd0ae111abb0edc3e64a2e7e69b44f02702", 
+            "fixed_version": "3.16.35"
+        }, 
+        "3.18": {
+            "cmt_id": "36c84b22ac8aa041cbdfbe48a55ebb32e3521704", 
+            "fixed_version": "3.18.74"
+        }, 
+        "3.2": {
+            "cmt_id": "9cf50c3ff1d3286a25781c8d6f81e83f7835c5c8", 
+            "fixed_version": "3.2.77"
+        }, 
+        "4.4": {
+            "cmt_id": "fec8beab63283003b546f83eebbbe32efb9acc53", 
+            "fixed_version": "4.4.2"
+        }
+    }, 
+    "CVE-2017-13216": {
+        "3.16": {
+            "cmt_id": "63aa20e4f4760249339c7771bd7e4a01d82a95ad", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.18": {
+            "cmt_id": "6dc42f889217a0a077bc75c6fa5239ade762fff4", 
+            "fixed_version": "3.18.92"
+        }, 
+        "4.14": {
+            "cmt_id": "242e20a5b3cc2b99ace977546d3cffc6a2a35991", 
+            "fixed_version": "4.14.14"
+        }, 
+        "4.4": {
+            "cmt_id": "b4106c55b574fe37900b02ddf89cbe4b9d971392", 
+            "fixed_version": "4.4.112"
+        }, 
+        "4.9": {
+            "cmt_id": "c51d23dffc2e9ca05d611c86c440f9055541c62d", 
+            "fixed_version": "4.9.77"
+        }
+    }, 
+    "CVE-2017-14051": {
+        "3.16": {
+            "cmt_id": "71ee8480093a46d245f61e2c2c5cfb0d5a6bc61d", 
+            "fixed_version": "3.16.51"
+        }, 
+        "3.18": {
+            "cmt_id": "78d88643d218fccb0fcf7fa957e785d4048e35cb", 
+            "fixed_version": "3.18.72"
+        }, 
+        "3.2": {
+            "cmt_id": "1714a066d71dc00bc336aa1565ec86551e388704", 
+            "fixed_version": "3.2.96"
+        }, 
+        "4.1": {
+            "cmt_id": "d1c2fe7dc88d9bc3a477d9dfc2aa623f9776372e", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.13": {
+            "cmt_id": "bb8eb5376409be8e2f4e2d24a473d2c0a35aa38e", 
+            "fixed_version": "4.13.4"
+        }, 
+        "4.4": {
+            "cmt_id": "d8663aa2778965c75b5e75c7948b44f5de601a88", 
+            "fixed_version": "4.4.89"
+        }, 
+        "4.9": {
+            "cmt_id": "2a913aecc4f746ce15eb1bec98b134aff4190ae2", 
+            "fixed_version": "4.9.52"
+        }
+    }, 
+    "CVE-2017-14106": {
+        "3.16": {
+            "cmt_id": "32cb2d4a59d0512aa825e7f0352f66063482cc07", 
+            "fixed_version": "3.16.48"
+        }, 
+        "3.18": {
+            "cmt_id": "1722ca90e1b88e6b7f0824908828e2462d7405ac", 
+            "fixed_version": "3.18.72"
+        }, 
+        "3.2": {
+            "cmt_id": "16a0303d3f6b222044de5d33c01cbdf590050473", 
+            "fixed_version": "3.2.93"
+        }, 
+        "4.1": {
+            "cmt_id": "ea08a5642d93fd963d376c10c9fd9664373771b6", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.4": {
+            "cmt_id": "611a98c8eca3098173309642df187056c17e0f65", 
+            "fixed_version": "4.4.89"
+        }, 
+        "4.9": {
+            "cmt_id": "a10c510179b369f7d1e8cf77f43ee2db900c1ac9", 
+            "fixed_version": "4.9.51"
+        }
+    }, 
+    "CVE-2017-14140": {
+        "3.16": {
+            "cmt_id": "b5a16892623afec2d3212b963dd688b258002b4b", 
+            "fixed_version": "3.16.48"
+        }, 
+        "3.18": {
+            "cmt_id": "8cf95002f0c9afe06fa1e4b9ebb0e10a77c481b1", 
+            "fixed_version": "3.18.67"
+        }, 
+        "3.2": {
+            "cmt_id": "a9a659c916c81b3385479ee00d4547912f08abf6", 
+            "fixed_version": "3.2.93"
+        }, 
+        "4.12": {
+            "cmt_id": "e950adf8983f18cf210145af0cda1fe7e6aa8c11", 
+            "fixed_version": "4.12.9"
+        }, 
+        "4.4": {
+            "cmt_id": "46d51a26efbc7cbaa2bc1f01628a00a604193856", 
+            "fixed_version": "4.4.84"
+        }, 
+        "4.9": {
+            "cmt_id": "61332dc598c3f223678b2d7192ccf3472c544799", 
+            "fixed_version": "4.9.45"
+        }
+    }, 
+    "CVE-2017-14156": {
+        "3.16": {
+            "cmt_id": "093d5ecdeb49c6ad4ea4c1fb39c481e9bcfc1871", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.18": {
+            "cmt_id": "2d53f0b14066d798104411f13442afc20bdea4d6", 
+            "fixed_version": "3.18.73"
+        }, 
+        "3.2": {
+            "cmt_id": "71b8eab658c3569c1b3fe3d4df3334bb3fe85903", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "92153256b2429e23a4f736cd1eab8dc18ad9883e", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "fd7ea1828b0dc2a3501b403f4254e9b34ea8a8da", 
+            "fixed_version": "4.13.5"
+        }, 
+        "4.4": {
+            "cmt_id": "27323cb81eae618e68e4dea1345090c37dee5485", 
+            "fixed_version": "4.4.90"
+        }, 
+        "4.9": {
+            "cmt_id": "64afde6f956dfcb719e329a9d2098b53e68d2755", 
+            "fixed_version": "4.9.53"
+        }
+    }, 
+    "CVE-2017-14340": {
+        "3.16": {
+            "cmt_id": "1e48f7b93c3a8f1d7bb136ab7fa61e763893a6fd", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.18": {
+            "cmt_id": "b766f0849a52e235268f362b7d8ec8bc36cdc7f0", 
+            "fixed_version": "3.18.71"
+        }, 
+        "3.2": {
+            "cmt_id": "90b59e69283444326907eb6c6b447366814d0960", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "d8f0ead1e72bcc040a858ddf5d1de0a9d6cce8ca", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.12": {
+            "cmt_id": "9f7df0bca168528aba20794f400be134495551b8", 
+            "fixed_version": "4.12.13"
+        }, 
+        "4.13": {
+            "cmt_id": "24cb33252843e531194e78222af2d8afb75fac5f", 
+            "fixed_version": "4.13.2"
+        }, 
+        "4.4": {
+            "cmt_id": "ad3903434142953a03b84ec8719ce80373a62266", 
+            "fixed_version": "4.4.88"
+        }, 
+        "4.9": {
+            "cmt_id": "5b82e0e938af5d9dfb038e2483cb2a84e24584fd", 
+            "fixed_version": "4.9.50"
+        }
+    }, 
+    "CVE-2017-14489": {
+        "3.16": {
+            "cmt_id": "a1b438ad8590add8f6b0b679171bf5e0d45e2da1", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.18": {
+            "cmt_id": "fec4cd33779f9edd7ab2d0d5ad7228f55f3f6887", 
+            "fixed_version": "3.18.73"
+        }, 
+        "3.2": {
+            "cmt_id": "7d38a8202c4a6acf91d6163f53f3253a261bbd22", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "74fbce9bea7351161fb5864e2fc31c02145fcab7", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "1fc547cd09e2d7295656fde40a34706448bf6098", 
+            "fixed_version": "4.13.5"
+        }, 
+        "4.4": {
+            "cmt_id": "9d2534917c25a58b67864ea1db930670d48dee75", 
+            "fixed_version": "4.4.90"
+        }, 
+        "4.9": {
+            "cmt_id": "b42bf0f15cf70926f3a460e7517703fda6191ba7", 
+            "fixed_version": "4.9.53"
+        }
+    }, 
+    "CVE-2017-14497": {
+        "4.12": {
+            "cmt_id": "e7ebdeb47c8b14614c65a0a2ad07cf4c04e51469", 
+            "fixed_version": "4.12.14"
+        }, 
+        "4.13": {
+            "cmt_id": "edbd58be15a957f6a760c4a514cd475217eb97fd", 
+            "fixed_version": "4.13"
+        }, 
+        "4.9": {
+            "cmt_id": "8c623e5d03692dc478277185a0b907d53aea1b43", 
+            "fixed_version": "4.9.51"
+        }
+    }, 
+    "CVE-2017-14954": {
+        "4.13": {
+            "cmt_id": "c8b679ba7c65457e45af7c086c5df0748522aa2f", 
+            "fixed_version": "4.13.5"
+        }
+    }, 
+    "CVE-2017-14991": {
+        "3.18": {
+            "cmt_id": "9793679d8dc92d1d8a187d023d2d7a17dd9348b5", 
+            "fixed_version": "3.18.72"
+        }, 
+        "4.1": {
+            "cmt_id": "68fa36ad00f522ff6bab272247b3bd28c1959f33", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.13": {
+            "cmt_id": "9f62840e7fc648b0a55d089714484b704557c027", 
+            "fixed_version": "4.13.4"
+        }, 
+        "4.4": {
+            "cmt_id": "72896ca30a7f6ceb5238714d5761e4ad4521ccc5", 
+            "fixed_version": "4.4.89"
+        }, 
+        "4.9": {
+            "cmt_id": "90cb12f6dc5ac45c51082721ec5bbe18850cf80f", 
+            "fixed_version": "4.9.52"
+        }
+    }, 
+    "CVE-2017-15102": {
+        "3.12": {
+            "cmt_id": "55b6c165bdf9b2808137cc5d49066e8a5344622a", 
+            "fixed_version": "3.12.65"
+        }, 
+        "3.16": {
+            "cmt_id": "5d1d4fb4ab35b8eebf3b9112c460cb25edb89143", 
+            "fixed_version": "3.16.40"
+        }, 
+        "3.2": {
+            "cmt_id": "dde8322a694ca0c466775c3463fccd74a8ce14e2", 
+            "fixed_version": "3.2.85"
+        }, 
+        "4.4": {
+            "cmt_id": "62dd9cf78b280c8cd08162f8c4a490fb76deeb23", 
+            "fixed_version": "4.4.24"
+        }
+    }, 
+    "CVE-2017-15115": {
+        "3.16": {
+            "cmt_id": "7adde0289baa8d51c2bd072d80cb82a278d24363", 
+            "fixed_version": "3.16.51"
+        }, 
+        "3.18": {
+            "cmt_id": "39c3fff9ef51ba9f2748f37ad7d9cfef365e87fe", 
+            "fixed_version": "3.18.84"
+        }, 
+        "3.2": {
+            "cmt_id": "16585babafe54375f23f73a8fc323bd51e7955d7", 
+            "fixed_version": "3.2.96"
+        }, 
+        "4.1": {
+            "cmt_id": "e33c3b35af697c34d89086580386c768ca038623", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "22f767973fb024036d8a9c2878035bdc6c5d1e6d", 
+            "fixed_version": "4.13.16"
+        }, 
+        "4.4": {
+            "cmt_id": "46bdabbca02ebabd292d0ea3f610aa54e53f0e25", 
+            "fixed_version": "4.4.100"
+        }, 
+        "4.9": {
+            "cmt_id": "362d2ce0f851653d2eed87fdb8891ab4cfb0c2bf", 
+            "fixed_version": "4.9.65"
+        }
+    }, 
+    "CVE-2017-15126": {
+        "4.13": {
+            "cmt_id": "8919b6a762bace82c4c7c04471561b1347c17a33", 
+            "fixed_version": "4.13.6"
+        }
+    }, 
+    "CVE-2017-15128": {
+        "4.13": {
+            "cmt_id": "c14ee6986103f9232c99de035a996547faba6371", 
+            "fixed_version": "4.13.12"
+        }
+    }, 
+    "CVE-2017-15129": {
+        "4.14": {
+            "cmt_id": "dd9a2648b3e35c2369f580215d916baf7e23253a", 
+            "fixed_version": "4.14.11"
+        }, 
+        "4.4": {
+            "cmt_id": "5854ca90c6c6c2ed65355eded45615bf8bcd6fd3", 
+            "fixed_version": "4.4.109"
+        }, 
+        "4.9": {
+            "cmt_id": "03c93293a83a603fc5b87fc15321f392d3cf0043", 
+            "fixed_version": "4.9.74"
+        }
+    }, 
+    "CVE-2017-15265": {
+        "3.16": {
+            "cmt_id": "853c65fe1db498563bdeea5b7e733441db34d330", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "035e6d0b5b192ff5e168ed322304d29db108d790", 
+            "fixed_version": "3.18.76"
+        }, 
+        "3.2": {
+            "cmt_id": "c3895a053b2505f9e409e6d6c57dcece714ab486", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "507bb1c783c2edc4ea481a6eab7a6d2d88627624", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "71c766e18dd3f321bd450ec7c0c20643b2c4b74e", 
+            "fixed_version": "4.13.8"
+        }, 
+        "4.4": {
+            "cmt_id": "23709ae9b61429502fcd4686e7a97333f3b3544a", 
+            "fixed_version": "4.4.93"
+        }, 
+        "4.9": {
+            "cmt_id": "35b84860667ff081eee56b62f3db2a28ca8a3823", 
+            "fixed_version": "4.9.57"
+        }
+    }, 
+    "CVE-2017-15274": {
+        "3.16": {
+            "cmt_id": "400773b3c6b7faffafc6adedecdd4882fc677d64", 
+            "fixed_version": "3.16.48"
+        }, 
+        "3.18": {
+            "cmt_id": "8206e0a25785c58e88a444fed1d4646da60b14a4", 
+            "fixed_version": "3.18.57"
+        }, 
+        "3.2": {
+            "cmt_id": "134a3099ea5bb3d13126321ac48bfc48c72784ed", 
+            "fixed_version": "3.2.93"
+        }, 
+        "4.1": {
+            "cmt_id": "c19aa530105b0d780ad72a78a7ef271037bcb774", 
+            "fixed_version": "4.1.49"
+        }, 
+        "4.11": {
+            "cmt_id": "5def69023aec63f6d2facb39fde6f4cdf9c12710", 
+            "fixed_version": "4.11.5"
+        }, 
+        "4.4": {
+            "cmt_id": "bc6be3433e694d1ab1d0012b6053ae4e9a3b189e", 
+            "fixed_version": "4.4.72"
+        }, 
+        "4.9": {
+            "cmt_id": "1b253e023f8f75b109564a61d2050d818f75b4f3", 
+            "fixed_version": "4.9.32"
+        }
+    }, 
+    "CVE-2017-15299": {
+        "3.16": {
+            "cmt_id": "24832178de3ab7b6fb42f2730d8d675e3d30adb2", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "98c4e5cae5204c1114390219331ddd649d78a5a7", 
+            "fixed_version": "3.18.78"
+        }, 
+        "3.2": {
+            "cmt_id": "57f94e88bb255bf7b7d267c999aefbe4557307c1", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "7aeb11ac706537b29b704c344572c3f9ac908389", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "24a33a0c96f3e976c18e4321ca09f71cb835a9b5", 
+            "fixed_version": "4.13.10"
+        }, 
+        "4.4": {
+            "cmt_id": "33dea302f9bc1e2c41392a308cfb50f6c02bb096", 
+            "fixed_version": "4.4.95"
+        }, 
+        "4.9": {
+            "cmt_id": "da0c7503c0b886784bf8bcb279c7d71c1e50c438", 
+            "fixed_version": "4.9.59"
+        }
+    }, 
+    "CVE-2017-15306": {
+        "4.13": {
+            "cmt_id": "3f3414599f110c8dce4e0b0d51502fc8c07517d7", 
+            "fixed_version": "4.13.11"
+        }, 
+        "4.9": {
+            "cmt_id": "474cb9e0f02fdabadfc5ecc17b9afbb0ca6aa15a", 
+            "fixed_version": "4.9.60"
+        }
+    }, 
+    "CVE-2017-15537": {
+        "3.18": {
+            "cmt_id": "f23ec06d527c9cd90552a68c748bcb5aa942ee87", 
+            "fixed_version": "3.18.73"
+        }, 
+        "4.13": {
+            "cmt_id": "7c6bcb52072cb117e7792dca856944f05182bd19", 
+            "fixed_version": "4.13.5"
+        }, 
+        "4.4": {
+            "cmt_id": "d25fea066a8ed4457a9f8b23eb78204b9b6896cf", 
+            "fixed_version": "4.4.90"
+        }, 
+        "4.9": {
+            "cmt_id": "5e9b07f30d21295b83f2024ffb5a349d3af6f749", 
+            "fixed_version": "4.9.53"
+        }
+    }, 
+    "CVE-2017-15649": {
+        "3.16": {
+            "cmt_id": "70abad3796f52ed593d5d31bf9f0b5410a522548", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "b0763909b4538894bb47614656c75f2a233c40d2", 
+            "fixed_version": "3.18.77"
+        }, 
+        "3.2": {
+            "cmt_id": "ca3d015d39f0357889fa3ef6a88028162de17d7d", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "cafd2b53da565ca30c48a146635c95d385d83b81", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "a5d0f35d810a531c971394b0ea5d8de417acfea5", 
+            "fixed_version": "4.13.6"
+        }, 
+        "4.4": {
+            "cmt_id": "1b6c80e797eeadf643861f8340ed5791d813d80c", 
+            "fixed_version": "4.4.94"
+        }, 
+        "4.9": {
+            "cmt_id": "0f22167d3321a028c0b6edc2d5b2ab0e37a2ac53", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-15868": {
+        "3.16": {
+            "cmt_id": "77369e6ee42b28a529932f5f7a5522de73310d21", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "f6237750acc4494cb28e174289d5d335313ff2ea", 
+            "fixed_version": "3.18.64"
+        }, 
+        "3.2": {
+            "cmt_id": "d5623517462d7bdf03cae13e8b713389b0cdd381", 
+            "fixed_version": "3.2.97"
+        }
+    }, 
+    "CVE-2017-15951": {
+        "4.13": {
+            "cmt_id": "f45b8fe12221c178ce708b1c9d634634f2261802", 
+            "fixed_version": "4.13.10"
+        }, 
+        "4.4": {
+            "cmt_id": "8a004caec12bf241e567e3640401256cc9bc2e45", 
+            "fixed_version": "4.4.95"
+        }, 
+        "4.9": {
+            "cmt_id": "63c8e452554962f88c0952212c8a4202469d4914", 
+            "fixed_version": "4.9.59"
+        }
+    }, 
+    "CVE-2017-16525": {
+        "3.16": {
+            "cmt_id": "96b62489bc4200803cb77a0ca69aa3d179c7e9f5", 
+            "fixed_version": "3.16.51"
+        }, 
+        "3.18": {
+            "cmt_id": "8ae04f638496b7a9b0381aecf5c47dcb5a3bd6fc", 
+            "fixed_version": "3.18.76"
+        }, 
+        "3.2": {
+            "cmt_id": "b92072aadd839c9379190979edac63285ae2b790", 
+            "fixed_version": "3.2.96"
+        }, 
+        "4.1": {
+            "cmt_id": "42651349f0207b8ba3b80b5bd868d9872fbcc6c1", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "e21045a223959d469174629614028136b202a586", 
+            "fixed_version": "4.13.8"
+        }, 
+        "4.4": {
+            "cmt_id": "208563455aac7540755bb9d8e8edaf7c5ef61d8c", 
+            "fixed_version": "4.4.93"
+        }, 
+        "4.9": {
+            "cmt_id": "063b57d556181c796294b1cdf4d649cebc12678a", 
+            "fixed_version": "4.9.57"
+        }
+    }, 
+    "CVE-2017-16526": {
+        "3.16": {
+            "cmt_id": "8a088612bc35033159077fa7bee6f3761d712725", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "4a8d502989094b0825bb11240bc12e4d9cc5c65b", 
+            "fixed_version": "3.18.75"
+        }, 
+        "3.2": {
+            "cmt_id": "c95d921ebf9e02853bd090f3b3845085082185f8", 
+            "fixed_version": "3.2.97"
+        }, 
+        "4.1": {
+            "cmt_id": "bd2ec3b5dd378b6d156d6b200faba82f9f087b16", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "6fd9ba4251e3ce1f6f69c60e4c13539b745a0f8a", 
+            "fixed_version": "4.13.6"
+        }, 
+        "4.4": {
+            "cmt_id": "5a21af11c6810b936b17a2c5c69518be0da8f4c3", 
+            "fixed_version": "4.4.92"
+        }, 
+        "4.9": {
+            "cmt_id": "8ff7adb930d4a62f43dfc76220a988a043c510ff", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-16527": {
+        "3.16": {
+            "cmt_id": "6a6488e8d231fa1fca2408e59e819f64fecb45f3", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "9d263dba25284b31f2544970964decf65b79a2e8", 
+            "fixed_version": "3.18.76"
+        }, 
+        "3.2": {
+            "cmt_id": "72f4b1c7114c1b34302999d72bc5b16c8c1a1945", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "44084551aa36a8f3899cc7e73c52846560d8de6a", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "fd7066e5e913ef8bf6e58c9af8a63cb09e05952f", 
+            "fixed_version": "4.13.8"
+        }, 
+        "4.4": {
+            "cmt_id": "dc7c3bd09c7d2063c4d1be23d72ee85f1b3bb947", 
+            "fixed_version": "4.4.93"
+        }, 
+        "4.9": {
+            "cmt_id": "e0c70289a1e334a60b54b54688f18e2ee38396a9", 
+            "fixed_version": "4.9.57"
+        }
+    }, 
+    "CVE-2017-16528": {
+        "4.1": {
+            "cmt_id": "c617803955ec5ec9a0310e76e34e4e03e02ca803", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "2f3ab4a5fe065958f33d41bec352de4b4844dff5", 
+            "fixed_version": "4.13.4"
+        }, 
+        "4.4": {
+            "cmt_id": "1e98fd54c356bb2bcf827a74949c9372c455409f", 
+            "fixed_version": "4.4.99"
+        }, 
+        "4.9": {
+            "cmt_id": "1862eca99e2732da2594e05406c9f78b4265bf5b", 
+            "fixed_version": "4.9.63"
+        }
+    }, 
+    "CVE-2017-16529": {
+        "3.16": {
+            "cmt_id": "9992800cfd0b367369407d62a4c228c454c5d0e3", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "ee44ff5445ae449570427baa534bfba2abba7545", 
+            "fixed_version": "3.18.75"
+        }, 
+        "3.2": {
+            "cmt_id": "8a930044f0b100d6b28a94525e9cf62787b3ec3a", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "b01117b7bc02923baebcff895609561c78559c08", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "ee93eb98bc606a6c6dc37a04f6264ebb514117ab", 
+            "fixed_version": "4.13.6"
+        }, 
+        "4.4": {
+            "cmt_id": "46c7b1fa4911a859a82575e3ffb55b34a89a222d", 
+            "fixed_version": "4.4.92"
+        }, 
+        "4.9": {
+            "cmt_id": "37b6d898388e78d92a13a8ab50c960d507c968d1", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-16530": {
+        "3.16": {
+            "cmt_id": "c0003557dbdec4ec1976ea7be9534abef758297b", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "8f0a7703ff9e3a5553134c3d9a20573624802541", 
+            "fixed_version": "3.18.75"
+        }, 
+        "4.1": {
+            "cmt_id": "0078c8c1a6819a8badf212df782e090559055241", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "468f2bf8e0d546479a935e67b4091cdb3c4a11e8", 
+            "fixed_version": "4.13.6"
+        }, 
+        "4.4": {
+            "cmt_id": "5d9a9c3dcc1f63215b5a5b877be589974ec4f31d", 
+            "fixed_version": "4.4.92"
+        }, 
+        "4.9": {
+            "cmt_id": "d77606e93d819ad4b8f57511ff61a629ced49750", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-16531": {
+        "3.16": {
+            "cmt_id": "cc81fff9d62e32a27b1f16dab1a6172935792ab7", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "0502bf54bd01e8dbf4a057fe76f974074b5fb7e6", 
+            "fixed_version": "3.18.75"
+        }, 
+        "3.2": {
+            "cmt_id": "a0e0a5850211dd09725c819a8915c2cbe9067317", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "de5ffcc63dbdaffffd93934003fd527673f4da0a", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "31991559f483b33eb30b7fdb1219b3f78b616a27", 
+            "fixed_version": "4.13.6"
+        }, 
+        "4.4": {
+            "cmt_id": "13713e63bdb306f9a58d359b15edd60f34eac5ee", 
+            "fixed_version": "4.4.92"
+        }, 
+        "4.9": {
+            "cmt_id": "a6d4ce2e8b653ff7facde0d0051663fa4cf57b78", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-16532": {
+        "3.16": {
+            "cmt_id": "824f2a5ccdd9ddfb53418c13f493aa46ae0c2c00", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "32530efaed51e4df01e2bc151822143d23ae403a", 
+            "fixed_version": "3.18.82"
+        }, 
+        "3.2": {
+            "cmt_id": "f2a780301ae85dbe704499675832487130b8e267", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "b3c0b63e11eda6ef786fc35e0126e6e5ff828913", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "19ab6908533107d0a18048a7d8262eb74f5c05cb", 
+            "fixed_version": "4.13.14"
+        }, 
+        "4.4": {
+            "cmt_id": "de46c1adbea694109036d3e7dee1fa6250b72660", 
+            "fixed_version": "4.4.99"
+        }, 
+        "4.9": {
+            "cmt_id": "8cf061d919e2102d0de0379bafea6cce1405d786", 
+            "fixed_version": "4.9.63"
+        }
+    }, 
+    "CVE-2017-16533": {
+        "3.16": {
+            "cmt_id": "8d675aa967d3927ac100f7af48f2a2af8a041d2d", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "f4cf5d75416ae3d79e03179fe6f4b9f1231ae42c", 
+            "fixed_version": "3.18.76"
+        }, 
+        "3.2": {
+            "cmt_id": "99de0781e0de7c866f762b931351c2a501c3074f", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "439f76690d7d5dd212ea7bebc1f2fa077e3d645d", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "984154e7eef1f9e543dabd7422cfc99015778732", 
+            "fixed_version": "4.13.8"
+        }, 
+        "4.4": {
+            "cmt_id": "2929cb995378205bceda86d6fd3cbc22e522f97f", 
+            "fixed_version": "4.4.93"
+        }, 
+        "4.9": {
+            "cmt_id": "57265cddde308292af881ce634a5378dd4e25900", 
+            "fixed_version": "4.9.57"
+        }
+    }, 
+    "CVE-2017-16534": {
+        "3.18": {
+            "cmt_id": "88c17527a118c883d6290a6a3e8b93d6669475d9", 
+            "fixed_version": "3.18.85"
+        }, 
+        "4.13": {
+            "cmt_id": "7dddbeaf504434f37e041479af997b14b0f9ea0d", 
+            "fixed_version": "4.13.6"
+        }, 
+        "4.4": {
+            "cmt_id": "feab51a916ed07219dee38b898fe22bd2a98193a", 
+            "fixed_version": "4.4.92"
+        }, 
+        "4.9": {
+            "cmt_id": "767f7a2cf33a135fe3f57010b51c3f6e92d7677d", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-16535": {
+        "3.16": {
+            "cmt_id": "6514189e83d470af2f35735038c1b096410ab98d", 
+            "fixed_version": "3.16.50"
+        }, 
+        "3.18": {
+            "cmt_id": "7c1c88e160ed14dfb02cb35369e27abe01eb2ca5", 
+            "fixed_version": "3.18.78"
+        }, 
+        "3.2": {
+            "cmt_id": "7c27b82fad16d2804c7c8405316a636f57edeabd", 
+            "fixed_version": "3.2.95"
+        }, 
+        "4.1": {
+            "cmt_id": "e4e541386c2e0221a2325fc83b18ddf683db1f29", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "775462fd5c5378957e5165c898e2fa532ebf4234", 
+            "fixed_version": "4.13.10"
+        }, 
+        "4.4": {
+            "cmt_id": "9dff499d822660c6dbb2a407a7d85be26f87da07", 
+            "fixed_version": "4.4.95"
+        }, 
+        "4.9": {
+            "cmt_id": "9d13d3e05be29056eeab610d9ad26b04c9231a04", 
+            "fixed_version": "4.9.59"
+        }
+    }, 
+    "CVE-2017-16536": {
+        "3.16": {
+            "cmt_id": "99a3c1bb0ed332c64cfcd53a84fea2468ab9e11e", 
+            "fixed_version": "3.16.51"
+        }, 
+        "3.2": {
+            "cmt_id": "59a7195cd497d430d9f76bc9f71cf53ed4102743", 
+            "fixed_version": "3.2.96"
+        }, 
+        "4.1": {
+            "cmt_id": "ee16c9ea4ef98684378e020df9a4efa32955d767", 
+            "fixed_version": "4.1.48"
+        }, 
+        "4.14": {
+            "cmt_id": "5a482b8a75500ec7516f3d11c7fb063e3f4abc45", 
+            "fixed_version": "4.14.3"
+        }, 
+        "4.4": {
+            "cmt_id": "0870fb4c3566088dc222e582e43edbc9ececbce4", 
+            "fixed_version": "4.4.103"
+        }, 
+        "4.9": {
+            "cmt_id": "38c043d26c97a04332df960200a389bc4141ff21", 
+            "fixed_version": "4.9.66"
+        }
+    }, 
+    "CVE-2017-16537": {
+        "3.16": {
+            "cmt_id": "7f3ca02c7ed55f7d524fb5c06e2de36ab65f5e20", 
+            "fixed_version": "3.16.51"
+        }, 
+        "3.18": {
+            "cmt_id": "b02dac504efc353e1e8507c10f835f09757b0068", 
+            "fixed_version": "3.18.83"
+        }, 
+        "3.2": {
+            "cmt_id": "0df873c63e8e99a8fb6e068d182b860e6e6e07a9", 
+            "fixed_version": "3.2.96"
+        }, 
+        "4.1": {
+            "cmt_id": "95dba59e4def2ccef608665ed2439e1f8ff38799", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "442cc6c4c54fdeb402a425b37265a09c5d393af3", 
+            "fixed_version": "4.13.15"
+        }, 
+        "4.14": {
+            "cmt_id": "16edf1a6a8a52040841e3e875c76bad0aa28f85f", 
+            "fixed_version": "4.14.1"
+        }, 
+        "4.4": {
+            "cmt_id": "c344019c48a92e559b7f910e53e0c6f9018680fb", 
+            "fixed_version": "4.4.100"
+        }, 
+        "4.9": {
+            "cmt_id": "ca98a5c721703de77f7fb8bbafd0673e4a60a841", 
+            "fixed_version": "4.9.64"
+        }
+    }, 
+    "CVE-2017-16643": {
+        "3.16": {
+            "cmt_id": "9d399eba105c6e311db9ec78ce62579ffc403c0d", 
+            "fixed_version": "3.16.51"
+        }, 
+        "3.18": {
+            "cmt_id": "9c73743447f244eb0e7422a285dc907283d3630e", 
+            "fixed_version": "3.18.79"
+        }, 
+        "3.2": {
+            "cmt_id": "2de544fd1b16f76f8dd1213d585ce611155ccd34", 
+            "fixed_version": "3.2.96"
+        }, 
+        "4.1": {
+            "cmt_id": "500f156985a31f47a2eadb5b709b245af4c3a05b", 
+            "fixed_version": "4.1.46"
+        }, 
+        "4.13": {
+            "cmt_id": "8d3736faa7f7e438fab0cd28a31c0dc4eea552b8", 
+            "fixed_version": "4.13.11"
+        }, 
+        "4.4": {
+            "cmt_id": "2c99438cf66d585ba939068c8b8562e9104cd5c4", 
+            "fixed_version": "4.4.96"
+        }, 
+        "4.9": {
+            "cmt_id": "52f65e35c2b85908fa66cfc265be4e3fd88744a3", 
+            "fixed_version": "4.9.60"
+        }
+    }, 
+    "CVE-2017-16645": {
+        "3.16": {
+            "cmt_id": "eb791765b62b2a615fb692c3394d86f370d72681", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "c0f26c8f0562869e43e5001bed22817e6019d456", 
+            "fixed_version": "3.18.82"
+        }, 
+        "4.1": {
+            "cmt_id": "84513107dc8602c675ec871b616128b49c6e259e", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "cf87b5de4473fdc0735c27ef719abb2e0a6964bb", 
+            "fixed_version": "4.13.14"
+        }, 
+        "4.4": {
+            "cmt_id": "b7c625ce6d279bf3e138c25c0cd3f595923825f3", 
+            "fixed_version": "4.4.99"
+        }, 
+        "4.9": {
+            "cmt_id": "9d65d0ea55dcb813cea7df05602f233ad4843baf", 
+            "fixed_version": "4.9.63"
+        }
+    }, 
+    "CVE-2017-16646": {
+        "3.18": {
+            "cmt_id": "49fc34138b882bb1c6f2ba20df5339bca8a9167e", 
+            "fixed_version": "3.18.83"
+        }, 
+        "4.1": {
+            "cmt_id": "10e6847a353761dbd0c710feed6c530c3a5f62af", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "02a260a31257c653af31570faf4e07ad3dbe81f9", 
+            "fixed_version": "4.13.15"
+        }, 
+        "4.14": {
+            "cmt_id": "75d9dd294e2a41ddce75cc02d1675a9cf40873fc", 
+            "fixed_version": "4.14.1"
+        }, 
+        "4.4": {
+            "cmt_id": "0a418e57717d2d33275e9340c726ded671be7698", 
+            "fixed_version": "4.4.100"
+        }, 
+        "4.9": {
+            "cmt_id": "49c1e5f032382713933a86fa1077c438b430f6fc", 
+            "fixed_version": "4.9.64"
+        }
+    }, 
+    "CVE-2017-16647": {
+        "4.13": {
+            "cmt_id": "f93b123370688313fb3624aa7cb3ebfc6019c24e", 
+            "fixed_version": "4.13.16"
+        }, 
+        "4.14": {
+            "cmt_id": "baedf68a068ca29624f241426843635920f16e1d", 
+            "fixed_version": "4.14"
+        }, 
+        "4.9": {
+            "cmt_id": "58baa36d3728eea14884f74817d5749b32b0cdeb", 
+            "fixed_version": "4.9.65"
+        }
+    }, 
+    "CVE-2017-16649": {
+        "3.16": {
+            "cmt_id": "fac4f4657e16d3457963d4c8ee6a356103155141", 
+            "fixed_version": "3.16.51"
+        }, 
+        "3.2": {
+            "cmt_id": "d7d24810ac55e2f3fb213d6acf80016a0d337c50", 
+            "fixed_version": "3.2.96"
+        }, 
+        "4.13": {
+            "cmt_id": "f99427bc5d83e5c8546560c006effa91592cfcc4", 
+            "fixed_version": "4.13.16"
+        }, 
+        "4.14": {
+            "cmt_id": "2cb80187ba065d7decad7c6614e35e07aec8a974", 
+            "fixed_version": "4.14"
+        }, 
+        "4.4": {
+            "cmt_id": "caeeef8438c30e7d0e43293fcb7beb9f953bb2a9", 
+            "fixed_version": "4.4.100"
+        }, 
+        "4.9": {
+            "cmt_id": "f376621861e3d8a713d6931f4363c4137912330b", 
+            "fixed_version": "4.9.65"
+        }
+    }, 
+    "CVE-2017-16650": {
+        "3.16": {
+            "cmt_id": "4a14bd934b40b1a9f7fe3e0546f9873bb55e5b61", 
+            "fixed_version": "3.16.51"
+        }, 
+        "4.1": {
+            "cmt_id": "8e3bc0d48890704abdac3d5e0eb81ebc599cb921", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "dcf3cdb7b7603b7b09c1beb7bccf227e64b0f07f", 
+            "fixed_version": "4.13.16"
+        }, 
+        "4.14": {
+            "cmt_id": "7fd078337201cf7468f53c3d9ef81ff78cb6df3b", 
+            "fixed_version": "4.14"
+        }, 
+        "4.4": {
+            "cmt_id": "e455048c7ae95633c8778a0282d1ee86f78c5349", 
+            "fixed_version": "4.4.100"
+        }, 
+        "4.9": {
+            "cmt_id": "02a0c0639ae07beab982bbad4527b40da96d33ff", 
+            "fixed_version": "4.9.65"
+        }
+    }, 
+    "CVE-2017-16911": {
+        "3.16": {
+            "cmt_id": "789998181fc4fe5d48d1b95d796e8b62df17c1d9", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.2": {
+            "cmt_id": "11406025161a8745167414687bca1f8c04b5eb6c", 
+            "fixed_version": "3.2.99"
+        }, 
+        "4.14": {
+            "cmt_id": "b6a2ad646c13bb9d1231bce5599cb3176ff33ca4", 
+            "fixed_version": "4.14.8"
+        }, 
+        "4.4": {
+            "cmt_id": "28f467e0bdda754aa36390fd90b01823f0d3b18d", 
+            "fixed_version": "4.4.114"
+        }, 
+        "4.9": {
+            "cmt_id": "ce601a07bc504b4748f8e7a34896684f79514e51", 
+            "fixed_version": "4.9.79"
+        }
+    }, 
+    "CVE-2017-16912": {
+        "3.16": {
+            "cmt_id": "65060ba29cc54b3d5f76ceacf3c820f2087c35e6", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.2": {
+            "cmt_id": "95ac81780575f669db047b30511d56400c67099e", 
+            "fixed_version": "3.2.99"
+        }, 
+        "4.14": {
+            "cmt_id": "7120d742ad8d0f1fe37e4b73827e166fc1e01eea", 
+            "fixed_version": "4.14.8"
+        }, 
+        "4.4": {
+            "cmt_id": "80e733a9b37fb6b40351bf1924d5a90d89c375ae", 
+            "fixed_version": "4.4.114"
+        }, 
+        "4.9": {
+            "cmt_id": "20e825cdf7a1627f92371d45a5322ccecdebcb3b", 
+            "fixed_version": "4.9.71"
+        }
+    }, 
+    "CVE-2017-16913": {
+        "3.16": {
+            "cmt_id": "61aa1e63c06961e77b6f63823e05af637c1e3acd", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.2": {
+            "cmt_id": "629f509078f02bf65da3ecca8363104b08a3fdd7", 
+            "fixed_version": "3.2.99"
+        }, 
+        "4.14": {
+            "cmt_id": "1621db059603e781f61a9bf33cba639b42faf0bc", 
+            "fixed_version": "4.14.8"
+        }, 
+        "4.4": {
+            "cmt_id": "b6f826ba10dce86f74efd3c0953cb9982a3c51e2", 
+            "fixed_version": "4.4.114"
+        }, 
+        "4.9": {
+            "cmt_id": "f3e957266ae56c200fb13a42309c50f84576c64a", 
+            "fixed_version": "4.9.71"
+        }
+    }, 
+    "CVE-2017-16914": {
+        "3.16": {
+            "cmt_id": "49afc374a23c093faabd155e332c927bf0e69af0", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.18": {
+            "cmt_id": "f749066bec4019a7a5f7eee22b56314958161c1e", 
+            "fixed_version": "3.18.89"
+        }, 
+        "3.2": {
+            "cmt_id": "41ffa4f1c1480fe4392c6e1c48346a49d048ff4a", 
+            "fixed_version": "3.2.99"
+        }, 
+        "4.1": {
+            "cmt_id": "5319d08ca465eec277d04b5a3cee34f80b601c74", 
+            "fixed_version": "4.1.49"
+        }, 
+        "4.14": {
+            "cmt_id": "d78a5506cf0ea112124c1ffa5c0aae09b579d96d", 
+            "fixed_version": "4.14.8"
+        }, 
+        "4.4": {
+            "cmt_id": "2862cfca39894ac265fbb5cde9a3ff90c02201f3", 
+            "fixed_version": "4.4.107"
+        }, 
+        "4.9": {
+            "cmt_id": "14513e49c43cd3149a03ff9e1c223c3d5803ad09", 
+            "fixed_version": "4.9.71"
+        }
+    }, 
+    "CVE-2017-16939": {
+        "3.16": {
+            "cmt_id": "a7d7387cc169e912055faca1b0f123e5bce78f53", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "8586e18413441d265f0ff536378d6ef358d18853", 
+            "fixed_version": "3.18.86"
+        }, 
+        "3.2": {
+            "cmt_id": "43ce9bf0770f22048156e7b36fe812a3352da842", 
+            "fixed_version": "3.2.97"
+        }, 
+        "4.1": {
+            "cmt_id": "5e80f6036c71f6ce1dbba0ad2925c331767f76ac", 
+            "fixed_version": "4.1.48"
+        }, 
+        "4.13": {
+            "cmt_id": "20d17a2d1347b3754acfc395c7c57a068fc84d40", 
+            "fixed_version": "4.13.11"
+        }, 
+        "4.4": {
+            "cmt_id": "b377c453b3631531679cbe594b7d28c5ecd82cea", 
+            "fixed_version": "4.4.104"
+        }, 
+        "4.9": {
+            "cmt_id": "543aabb7d14b2414f40b632e37b0921bd0af3a96", 
+            "fixed_version": "4.9.60"
+        }
+    }, 
+    "CVE-2017-16994": {
+        "4.1": {
+            "cmt_id": "610622cac573aef67811fbffc865d9fba1611050", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.13": {
+            "cmt_id": "cd21766d6fb1b25bdc85d6541646b1dcf8a8cb52", 
+            "fixed_version": "4.13.16"
+        }, 
+        "4.14": {
+            "cmt_id": "bbce81fc966f59421e5f54c4bd3d3a4670f45e33", 
+            "fixed_version": "4.14.2"
+        }, 
+        "4.4": {
+            "cmt_id": "a3805b10de80953db316985f567453fc18329423", 
+            "fixed_version": "4.4.101"
+        }, 
+        "4.9": {
+            "cmt_id": "ceaec6e8cd98c8fd87701ddfb7468a13d989d79d", 
+            "fixed_version": "4.9.65"
+        }
+    }, 
+    "CVE-2017-16995": {
+        "4.14": {
+            "cmt_id": "6e12ea4fb45ca86cdd7425276b6993455fee947a", 
+            "fixed_version": "4.14.9"
+        }, 
+        "4.9": {
+            "cmt_id": "3695b3b18519099224efbc5875569d2cb6da256d", 
+            "fixed_version": "4.9.72"
+        }
+    }, 
+    "CVE-2017-16996": {
+        "4.14": {
+            "cmt_id": "bf5ee24e87e39548bf30d4e18e479e61a5a98336", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-17052": {
+        "4.12": {
+            "cmt_id": "f5024bb32d4d50b77f4fbc1e7251cf0f21def88e", 
+            "fixed_version": "4.12.10"
+        }, 
+        "4.9": {
+            "cmt_id": "b65b6ac52e0f8694aa3a4402d5f766b2bb9e94ef", 
+            "fixed_version": "4.9.46"
+        }
+    }, 
+    "CVE-2017-17053": {
+        "4.12": {
+            "cmt_id": "a8da876c1e45b75c082a5dc8ce10c0761a10c638", 
+            "fixed_version": "4.12.10"
+        }, 
+        "4.9": {
+            "cmt_id": "3559de45c99a68c0b8c4956fc35367837df9161c", 
+            "fixed_version": "4.9.46"
+        }
+    }, 
+    "CVE-2017-17448": {
+        "3.16": {
+            "cmt_id": "fad6474d43e985338e4c2b3bb1a7668cca1f041a", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "f4ba1d0e4366d63d1d09c024e8befc99c642e84b", 
+            "fixed_version": "3.18.93"
+        }, 
+        "4.14": {
+            "cmt_id": "671624872144abc37bc5e8f3b27987890f6e87f3", 
+            "fixed_version": "4.14.16"
+        }, 
+        "4.4": {
+            "cmt_id": "a359a437fbc6bb08aa9cc8e25ef4ac3b77ca727b", 
+            "fixed_version": "4.4.114"
+        }, 
+        "4.9": {
+            "cmt_id": "2c3184ea80322347287bc7e57f782d77f478e73c", 
+            "fixed_version": "4.9.79"
+        }
+    }, 
+    "CVE-2017-17449": {
+        "3.16": {
+            "cmt_id": "df524750e2d1ead01cceed5ffc0b62166c7630dd", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "5594e3eba3ee62dd06c317086c4ea0491d5502c7", 
+            "fixed_version": "3.18.91"
+        }, 
+        "4.14": {
+            "cmt_id": "e3fb538e5715250d6a61a26925215229f2e9f52f", 
+            "fixed_version": "4.14.11"
+        }, 
+        "4.4": {
+            "cmt_id": "f778ce6faa0d4c8d7a90b7bd11c3db7fb687c8cc", 
+            "fixed_version": "4.4.109"
+        }, 
+        "4.9": {
+            "cmt_id": "0b18782288a2f1c2a25e85d2553c15ea83bb5802", 
+            "fixed_version": "4.9.74"
+        }
+    }, 
+    "CVE-2017-17450": {
+        "3.16": {
+            "cmt_id": "06b6060a61b14a747b0f29890fcb20ece18a0944", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "115e3505bbd683a01496860646fa632e6533b4e3", 
+            "fixed_version": "3.18.93"
+        }, 
+        "4.14": {
+            "cmt_id": "19848ca7b7dad5153860239c893c1eadd603217e", 
+            "fixed_version": "4.14.16"
+        }, 
+        "4.4": {
+            "cmt_id": "d01ceb4722cd8d64176272434fe332b596750d9c", 
+            "fixed_version": "4.4.114"
+        }, 
+        "4.9": {
+            "cmt_id": "898eeca02a55e354c42a7aa5cdfebf16c3742f44", 
+            "fixed_version": "4.9.79"
+        }
+    }, 
+    "CVE-2017-17558": {
+        "3.16": {
+            "cmt_id": "072bee30c5d314af02c211112697ab0931ab5039", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "dd3ad5f60d520da135bf4dce5adcecf400e2db64", 
+            "fixed_version": "3.18.89"
+        }, 
+        "3.2": {
+            "cmt_id": "11a1db99b93dbb5f7b78cffe9b85e616ab749776", 
+            "fixed_version": "3.2.97"
+        }, 
+        "4.1": {
+            "cmt_id": "5b2323b62af18be000ef627f302b5bf167402de6", 
+            "fixed_version": "4.1.49"
+        }, 
+        "4.14": {
+            "cmt_id": "4c5ae6a301a5415d1334f6c655bebf91d475bd89", 
+            "fixed_version": "4.14.8"
+        }, 
+        "4.4": {
+            "cmt_id": "dfdf5fa3e6647c0fc02be8d857b6b8b7098946ff", 
+            "fixed_version": "4.4.107"
+        }, 
+        "4.9": {
+            "cmt_id": "99542e468b76ae180675566692e0528c4c712661", 
+            "fixed_version": "4.9.71"
+        }
+    }, 
+    "CVE-2017-17712": {
+        "4.14": {
+            "cmt_id": "3bc400bad0e003d40a0a2412411aed7cbae16f96", 
+            "fixed_version": "4.14.11"
+        }, 
+        "4.4": {
+            "cmt_id": "be27b620a861dc2a143b78e81e23f5622d9105da", 
+            "fixed_version": "4.4.109"
+        }, 
+        "4.9": {
+            "cmt_id": "f75f910ffa90af17eeca18714847eaa0f16cb4ad", 
+            "fixed_version": "4.9.74"
+        }
+    }, 
+    "CVE-2017-17741": {
+        "3.16": {
+            "cmt_id": "7cc7f67418296f829a284b6e2d4c62d937f15faa", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.2": {
+            "cmt_id": "26a8a3c531ae847048ee9126f07cb07424bd4724", 
+            "fixed_version": "3.2.97"
+        }, 
+        "4.14": {
+            "cmt_id": "653c41ac4729261cb356ee1aff0f3f4f342be1eb", 
+            "fixed_version": "4.14.14"
+        }, 
+        "4.4": {
+            "cmt_id": "eb91461daa77eb0ddb4c24aa427051f3669ba1f3", 
+            "fixed_version": "4.4.112"
+        }, 
+        "4.9": {
+            "cmt_id": "c781e3be97a1cbeef8c853101e8f266db556b0a3", 
+            "fixed_version": "4.9.77"
+        }
+    }, 
+    "CVE-2017-17805": {
+        "3.16": {
+            "cmt_id": "9517d9d0c1d62515d33c0405b5a86e88647012a2", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "ebd52f8b6422b920b4d1697d90679a2bb4b48a0b", 
+            "fixed_version": "3.18.89"
+        }, 
+        "3.2": {
+            "cmt_id": "a1eb10d948c39388c5dea527aa4e76ac90a6a7e1", 
+            "fixed_version": "3.2.97"
+        }, 
+        "4.1": {
+            "cmt_id": "bbda4c57b91619642a94b193531312fe01bc2398", 
+            "fixed_version": "4.1.49"
+        }, 
+        "4.14": {
+            "cmt_id": "c68b31521d5fb7216cb1113130399afe65437c6c", 
+            "fixed_version": "4.14.8"
+        }, 
+        "4.4": {
+            "cmt_id": "8a311b0462b59d12cb14e82e626d3612d988135b", 
+            "fixed_version": "4.4.107"
+        }, 
+        "4.9": {
+            "cmt_id": "c32e053a11f231376f0899ef906fd43f8fc8dbd0", 
+            "fixed_version": "4.9.71"
+        }
+    }, 
+    "CVE-2017-17806": {
+        "3.16": {
+            "cmt_id": "150fbc1221d1352db7dc830074586e0ee28e2a15", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "252b343a9789151293ad1da4a1ac0851bf31a22e", 
+            "fixed_version": "3.18.89"
+        }, 
+        "3.2": {
+            "cmt_id": "a63785d3294e9d7704db04500400fd8bb4b59a69", 
+            "fixed_version": "3.2.97"
+        }, 
+        "4.1": {
+            "cmt_id": "bd7f57da8fff9b75204d6dd2b3ac6a30a6430a5c", 
+            "fixed_version": "4.1.49"
+        }, 
+        "4.14": {
+            "cmt_id": "902ae89f841de0c8d2857919296923f6332e174f", 
+            "fixed_version": "4.14.8"
+        }, 
+        "4.4": {
+            "cmt_id": "43cd7f38612df31fbd929588c065cfbc42102aab", 
+            "fixed_version": "4.4.107"
+        }, 
+        "4.9": {
+            "cmt_id": "43259d07fceb8cc1f5ba7e8003ae19023e0620f5", 
+            "fixed_version": "4.9.71"
+        }
+    }, 
+    "CVE-2017-17807": {
+        "3.16": {
+            "cmt_id": "d3dc1ffed4044437339a22acebebaf1c5bc141ee", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.18": {
+            "cmt_id": "228014b20bd8902b05942ce4db4197ce345296f3", 
+            "fixed_version": "3.18.88"
+        }, 
+        "3.2": {
+            "cmt_id": "5d8207e99e9baadab32d815772da60bff3a07eb5", 
+            "fixed_version": "3.2.97"
+        }, 
+        "4.14": {
+            "cmt_id": "69d5894ce0a67d37f900d2597fc0b2b8cef6c863", 
+            "fixed_version": "4.14.6"
+        }, 
+        "4.4": {
+            "cmt_id": "13e86efb2eee6bd1f2d0aae5b0273e8e65683c9d", 
+            "fixed_version": "4.4.107"
+        }, 
+        "4.9": {
+            "cmt_id": "982707eb4ff84d4ae21618c02dd8926801b10a07", 
+            "fixed_version": "4.9.69"
+        }
+    }, 
+    "CVE-2017-17852": {
+        "4.14": {
+            "cmt_id": "6c8e098d0324412d4ae9e06c7e611a96b87faf80", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-17853": {
+        "4.14": {
+            "cmt_id": "4d54f7df5131d67f653f674003ec5f52c9818b53", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-17854": {
+        "4.14": {
+            "cmt_id": "de31796c052e47c99b1bb342bc70aa826733e862", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-17855": {
+        "4.14": {
+            "cmt_id": "cb56cc1b292b8b3f787fad89f1208f8e98d12c7d", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-17856": {
+        "4.14": {
+            "cmt_id": "c90268f7cbee0781331b96d1423d0f28a6183889", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-17857": {
+        "4.14": {
+            "cmt_id": "2120fca0ecfb4552d27608d409ebd3403ce02ce4", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-17862": {
+        "4.14": {
+            "cmt_id": "2b3ea8ceb2bb71e9e58527661261dba127137d9b", 
+            "fixed_version": "4.14.9"
+        }, 
+        "4.4": {
+            "cmt_id": "1367d854b97493bfb1f3d24cf89ba60cb7f059ea", 
+            "fixed_version": "4.4.115"
+        }, 
+        "4.9": {
+            "cmt_id": "7b5b73ea87a06236fa124bdebed1390d362d3439", 
+            "fixed_version": "4.9.72"
+        }
+    }, 
+    "CVE-2017-17863": {
+        "4.14": {
+            "cmt_id": "de31796c052e47c99b1bb342bc70aa826733e862", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-17864": {
+        "4.14": {
+            "cmt_id": "cb56cc1b292b8b3f787fad89f1208f8e98d12c7d", 
+            "fixed_version": "4.14.9"
+        }
+    }, 
+    "CVE-2017-18017": {
+        "3.16": {
+            "cmt_id": "d2e769238e6079e1e16c856cc352b0061a111f1d", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.18": {
+            "cmt_id": "f4549a698a531c0014c62e40e521ffa030cf31e0", 
+            "fixed_version": "3.18.60"
+        }, 
+        "3.2": {
+            "cmt_id": "d84eeff84e9869d29f442ff652ce1352cfa63e84", 
+            "fixed_version": "3.2.99"
+        }, 
+        "4.1": {
+            "cmt_id": "a7776b8815a90da464f045f7c24d9565ae9f1963", 
+            "fixed_version": "4.1.43"
+        }, 
+        "4.4": {
+            "cmt_id": "234e649840d191379cd132d89f4b01a2495cfcc3", 
+            "fixed_version": "4.4.76"
+        }, 
+        "4.9": {
+            "cmt_id": "ced7689be60ddcac4b1746212c547e8817c5ae5e", 
+            "fixed_version": "4.9.36"
+        }
+    }, 
+    "CVE-2017-18075": {
+        "4.14": {
+            "cmt_id": "7156c794b8ab462705e6ac80c5fa69565eb44c62", 
+            "fixed_version": "4.14.13"
+        }, 
+        "4.4": {
+            "cmt_id": "3ad85176e78d6671ede52eed588c3588d087b587", 
+            "fixed_version": "4.4.111"
+        }, 
+        "4.9": {
+            "cmt_id": "c195a4c0230d7a1dafb53cdbd5eed4dea4493504", 
+            "fixed_version": "4.9.76"
+        }
+    }, 
+    "CVE-2017-18079": {
+        "3.16": {
+            "cmt_id": "b8e534a556b1a6a6eca8fcdca79725f0dea21555", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.18": {
+            "cmt_id": "f6be94430be69b9abd5b7b357210e1f4ef4d1eea", 
+            "fixed_version": "3.18.63"
+        }, 
+        "3.2": {
+            "cmt_id": "87f5229f69b4bfc48c97c631d823dea5444029c3", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "6b4a5a2ee0e1cd861bd22b250197589d4b176bd0", 
+            "fixed_version": "4.1.44"
+        }, 
+        "4.12": {
+            "cmt_id": "6c0d8c2a408402f2d83a41b141efc2e5e8e604c4", 
+            "fixed_version": "4.12.4"
+        }, 
+        "4.4": {
+            "cmt_id": "bba6b69e11777695256619a77f90081ac7f99de7", 
+            "fixed_version": "4.4.79"
+        }, 
+        "4.9": {
+            "cmt_id": "5b50e0e74e2e5f084d18a03f6dedc67cfdb8db49", 
+            "fixed_version": "4.9.40"
         }
     }, 
     "CVE-2017-2583": {
@@ -6987,6 +9849,26 @@
         "3.16": {
             "cmt_id": "591fc80b6369a886a1d21cacf11f91b455781df3", 
             "fixed_version": "3.16.42"
+        }, 
+        "3.18": {
+            "cmt_id": "aa5b35bad59a2691db0ea739fb79be82aff5cbb8", 
+            "fixed_version": "3.18.50"
+        }, 
+        "4.1": {
+            "cmt_id": "68e9c254f662e4c2763e672b026a513d91f3a1c4", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.10": {
+            "cmt_id": "b04940e26f100c7d19fc0b5cab0210d4d924b002", 
+            "fixed_version": "4.10.10"
+        }, 
+        "4.4": {
+            "cmt_id": "c1fc1d2f214e33f91565a65ad1b4c09dae618d84", 
+            "fixed_version": "4.4.63"
+        }, 
+        "4.9": {
+            "cmt_id": "75465e71ec3139b958d06d48dfc85720aed69b6a", 
+            "fixed_version": "4.9.24"
         }
     }, 
     "CVE-2017-2618": {
@@ -6997,6 +9879,10 @@
         "3.16": {
             "cmt_id": "0646217322101c829aaabf95294ce9b8b02ab807", 
             "fixed_version": "3.16.41"
+        }, 
+        "3.18": {
+            "cmt_id": "0f436bf3f81b0674414d198a01bffc4ecae4590e", 
+            "fixed_version": "3.18.49"
         }, 
         "4.1": {
             "cmt_id": "96e74ad7ac38ca330d16222e6da38c9a196deb40", 
@@ -7020,9 +9906,17 @@
             "cmt_id": "2e523bd949e3bc43cf61cc8a690350fa778e3f88", 
             "fixed_version": "3.16.42"
         }, 
+        "3.18": {
+            "cmt_id": "477f7e81b30f70d45659c2c6e6aef4f79fbd15b7", 
+            "fixed_version": "3.18.49"
+        }, 
         "3.2": {
             "cmt_id": "d7ac6cf6751a0ffa00f9e46022024f79b0daa771", 
             "fixed_version": "3.2.87"
+        }, 
+        "4.1": {
+            "cmt_id": "209fd3f3ef14e0b0a1d07d6ff27d75c49e656e84", 
+            "fixed_version": "4.1.49"
         }, 
         "4.10": {
             "cmt_id": "72e5440223836633e2b5e658e7503d8b0e795f5d", 
@@ -7035,6 +9929,60 @@
         "4.9": {
             "cmt_id": "e5b9778761558ff3d239ed76925a1a7a734918ea", 
             "fixed_version": "4.9.15"
+        }
+    }, 
+    "CVE-2017-2647": {
+        "3.12": {
+            "cmt_id": "716aa8781692706c78bea54b1efd4269d15d4071", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "89a5900ac15faa45244b42423ff4febd6d35520b", 
+            "fixed_version": "3.16.46"
+        }, 
+        "3.2": {
+            "cmt_id": "206659fcb63b2ba078a0c288e470ea12cacce316", 
+            "fixed_version": "3.2.91"
+        }
+    }, 
+    "CVE-2017-2671": {
+        "3.12": {
+            "cmt_id": "10e710684943bfd0653d7f0bcf430cdaf25a0d2f", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "c3f18d2a809b563ef078130ab3758899625e4cfb", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "4e340a02d59c230b99460574c6a8fc87dc1a9a47", 
+            "fixed_version": "3.18.51"
+        }, 
+        "3.2": {
+            "cmt_id": "352651a0a07649e4ee03e294da069b5c3e42aae4", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "5f1cef9e823aa35c881745446ea3c865da338e4e", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.10": {
+            "cmt_id": "7cf480444103700891467fb0e25e9b6eca509117", 
+            "fixed_version": "4.10.14"
+        }, 
+        "4.4": {
+            "cmt_id": "b7f47c794bc45eae975bf2a52a4463333111bb2a", 
+            "fixed_version": "4.4.65"
+        }, 
+        "4.9": {
+            "cmt_id": "e88a8e0a23c23e09858a4f5caeb106da972e7934", 
+            "fixed_version": "4.9.26"
+        }
+    }, 
+    "CVE-2017-5123": {
+        "4.13": {
+            "cmt_id": "3da54587cf4c1be7c26a8ae0b58313828b69638a", 
+            "fixed_version": "4.13.7"
         }
     }, 
     "CVE-2017-5546": {
@@ -7134,6 +10082,10 @@
             "cmt_id": "c14d51ebac238f5bb6148c6999a54b02821445c6", 
             "fixed_version": "3.2.87"
         }, 
+        "4.1": {
+            "cmt_id": "c9cf983337a046e93f33c66c2707a704ec6440ac", 
+            "fixed_version": "4.1.40"
+        }, 
         "4.10": {
             "cmt_id": "87d1f686d6bf9d9003372469ffb5f1c310f28299", 
             "fixed_version": "4.10.2"
@@ -7156,6 +10108,10 @@
             "cmt_id": "3a997b28bbc69f7637ccd62c5a37379dec34f36b", 
             "fixed_version": "3.16.41"
         }, 
+        "3.18": {
+            "cmt_id": "3bbaa8061856b883c9deb16d1942188ef2608850", 
+            "fixed_version": "3.18.49"
+        }, 
         "4.4": {
             "cmt_id": "eaa3a58f450383aaa8632eea23f2a70d85c55d9d", 
             "fixed_version": "4.4.50"
@@ -7173,6 +10129,14 @@
         "3.16": {
             "cmt_id": "631f00df1b2fa51492de8ab93a91a3876b697aeb", 
             "fixed_version": "3.16.41"
+        }, 
+        "3.18": {
+            "cmt_id": "eeae5e030fcdba3a924bb951c4c62ef40dfc8974", 
+            "fixed_version": "3.18.49"
+        }, 
+        "3.2": {
+            "cmt_id": "6892986c7db05c281322f1f8870f5a46d4080e99", 
+            "fixed_version": "3.2.88"
         }, 
         "4.4": {
             "cmt_id": "2d9c2e011fd3f1be4e5643d6ad186faa5e50d4d1", 
@@ -7192,6 +10156,10 @@
             "cmt_id": "2ad78d37e15d7adba80deb103068faf6d88f95ac", 
             "fixed_version": "3.16.42"
         }, 
+        "3.18": {
+            "cmt_id": "a4a3d26a1d4e0702b1b54c8dc9c56ed61742568a", 
+            "fixed_version": "3.18.49"
+        }, 
         "3.2": {
             "cmt_id": "8b9f297cd4171ffaec7441b38cecd61f9c5b3a7f", 
             "fixed_version": "3.2.87"
@@ -7210,9 +10178,17 @@
             "cmt_id": "fe525a280e8b5f04c7666fe22d1a4ef592f7b953", 
             "fixed_version": "3.16.40"
         }, 
+        "3.18": {
+            "cmt_id": "2f9cf5cd5580046fe9ff97dae32f9c753500d4ea", 
+            "fixed_version": "3.18.92"
+        }, 
         "3.2": {
             "cmt_id": "9eb0e01be831d0f37ea6278a92c32424141f55fb", 
             "fixed_version": "3.2.85"
+        }, 
+        "4.4": {
+            "cmt_id": "416bd4a366f3b4cd3f6a3246f91bd9f425891547", 
+            "fixed_version": "4.4.65"
         }, 
         "4.9": {
             "cmt_id": "922813f4d66fb317e8602d058d03a1619af1ffd0", 
@@ -7228,9 +10204,17 @@
             "cmt_id": "c21341fd2c2e0e840864062707825d6d0d5e13b2", 
             "fixed_version": "3.16.41"
         }, 
+        "3.18": {
+            "cmt_id": "ae803f3ffbca73a8ba65759c71ce30f3bbcda83f", 
+            "fixed_version": "3.18.49"
+        }, 
         "3.2": {
             "cmt_id": "fd75b79ea9c7cf89d5b95f9896c6b4dcdac8c4cb", 
             "fixed_version": "3.2.86"
+        }, 
+        "4.1": {
+            "cmt_id": "98442999b9671784e659b205be8b5b6be8e81629", 
+            "fixed_version": "4.1.41"
         }, 
         "4.10": {
             "cmt_id": "5edabca9d4cff7f1f2b68f0bac55ef99d9798ba4", 
@@ -7254,6 +10238,10 @@
             "cmt_id": "5b746247d798a6061d213bf3f64c6e434bb4f23d", 
             "fixed_version": "3.16.41"
         }, 
+        "3.18": {
+            "cmt_id": "337bb5f3fd50872e4bdac43c097fd7bf926f24a9", 
+            "fixed_version": "3.18.49"
+        }, 
         "3.2": {
             "cmt_id": "cd3b9e464ca54547965df76463bdfb26e6712287", 
             "fixed_version": "3.2.86"
@@ -7275,6 +10263,14 @@
         "3.16": {
             "cmt_id": "8e822a0f8b3b8d2907ae7fba62258562b7ef800c", 
             "fixed_version": "3.16.42"
+        }, 
+        "3.18": {
+            "cmt_id": "5b8f1011ac5363df3a6051223d146144f4af47d7", 
+            "fixed_version": "3.18.49"
+        }, 
+        "4.1": {
+            "cmt_id": "4fc8ff15e26ecfe974b7a3f386550bcfd259b8b1", 
+            "fixed_version": "4.1.49"
         }, 
         "4.10": {
             "cmt_id": "8b74d439e1697110c5e5c600643e823eb1dd0762", 
@@ -7301,6 +10297,10 @@
         "3.2": {
             "cmt_id": "382299a020add34cc75ac501bbcb655195c123b8", 
             "fixed_version": "3.2.87"
+        }, 
+        "4.1": {
+            "cmt_id": "7babaac5d49ee7a88a5a324668dd13b575635d09", 
+            "fixed_version": "4.1.49"
         }, 
         "4.10": {
             "cmt_id": "d199fab63c11998a602205f7ee7ff7c05c97164b", 
@@ -7342,6 +10342,10 @@
             "cmt_id": "c512d1770f6731d7c34eb71d7463852d3ad0e452", 
             "fixed_version": "3.2.87"
         }, 
+        "4.1": {
+            "cmt_id": "c9556862a64b5ac85bfee1cfd4313615dc21d6f8", 
+            "fixed_version": "4.1.49"
+        }, 
         "4.10": {
             "cmt_id": "4c03b862b12f980456f9de92db6d508a4999b788", 
             "fixed_version": "4.10"
@@ -7364,6 +10368,10 @@
             "cmt_id": "ae722d6df3efc7a2df272644d82639f2679042ed", 
             "fixed_version": "3.16.42"
         }, 
+        "3.18": {
+            "cmt_id": "02415182a92ccd72b60c22e723a56a74a566d2e7", 
+            "fixed_version": "3.18.50"
+        }, 
         "3.2": {
             "cmt_id": "6c24f53714319676adf7ab0d2d081e4b9de35bad", 
             "fixed_version": "3.2.87"
@@ -7371,6 +10379,14 @@
         "4.10": {
             "cmt_id": "f448775342572f6fdbaffdcec0d3d878d0c2e7d9", 
             "fixed_version": "4.10.5"
+        }, 
+        "4.4": {
+            "cmt_id": "e2f5fb9207a6bd7101ad94e73264ac8bb9e3b87a", 
+            "fixed_version": "4.4.63"
+        }, 
+        "4.9": {
+            "cmt_id": "35b9d61ea910c1ebd4652b32cc7d713f6689b4f4", 
+            "fixed_version": "4.9.24"
         }
     }, 
     "CVE-2017-6874": {
@@ -7381,6 +10397,1282 @@
         "4.9": {
             "cmt_id": "ee6f7ee1e4cdb0098fee4593ddf11ca6028abef2", 
             "fixed_version": "4.9.16"
+        }
+    }, 
+    "CVE-2017-6951": {
+        "3.12": {
+            "cmt_id": "716aa8781692706c78bea54b1efd4269d15d4071", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "89a5900ac15faa45244b42423ff4febd6d35520b", 
+            "fixed_version": "3.16.46"
+        }, 
+        "3.2": {
+            "cmt_id": "206659fcb63b2ba078a0c288e470ea12cacce316", 
+            "fixed_version": "3.2.91"
+        }
+    }, 
+    "CVE-2017-7184": {
+        "3.12": {
+            "cmt_id": "be4f4140ab3e8d4142f47c79b0a29f0ec53540b5", 
+            "fixed_version": "3.12.73"
+        }, 
+        "3.16": {
+            "cmt_id": "811f5600db1a0a9c4f1abad5017e09f43d7088f3", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "281edc5a3778cd551e688e8d0c88d05d948b4faf", 
+            "fixed_version": "3.18.49"
+        }, 
+        "3.2": {
+            "cmt_id": "04dba730e9d4798184b4769f74ef14c20f8c6f9a", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "438db92d7f2792e3bad17be70e6edf0f44a081f0", 
+            "fixed_version": "4.1.49"
+        }, 
+        "4.10": {
+            "cmt_id": "ffcf5de8152006ee478f3135412aac59b7ab1796", 
+            "fixed_version": "4.10.8"
+        }, 
+        "4.4": {
+            "cmt_id": "cce7e56dd73f75fef0a7f594fb129285a660fec0", 
+            "fixed_version": "4.4.59"
+        }, 
+        "4.9": {
+            "cmt_id": "64a5465799ee40e3d54d9da3037934cd4b7b502f", 
+            "fixed_version": "4.9.20"
+        }
+    }, 
+    "CVE-2017-7187": {
+        "3.18": {
+            "cmt_id": "a3bc27d43f5b5e8cac993b447eeb2f2efb1493af", 
+            "fixed_version": "3.18.50"
+        }, 
+        "4.1": {
+            "cmt_id": "861b5c18bb146f3845dc52f64e7bc997d6cf8db3", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "f7019040f6d7d09c3eb8835b38730a4b62f78734", 
+            "fixed_version": "4.10.9"
+        }, 
+        "4.4": {
+            "cmt_id": "a92f411914cad6532e82e4607bc4075a5ffaa366", 
+            "fixed_version": "4.4.60"
+        }, 
+        "4.9": {
+            "cmt_id": "c2a869527865c35b605877f966cb5d514fdc5fbb", 
+            "fixed_version": "4.9.21"
+        }
+    }, 
+    "CVE-2017-7261": {
+        "3.12": {
+            "cmt_id": "13a6a971c9165237531c2870da03084a6becc905", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "61cabe967321767052498032178d56a1ea03a7bc", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "6e7f776a49aabe3c734f9d94ba2522961a91c6b7", 
+            "fixed_version": "3.18.50"
+        }, 
+        "3.2": {
+            "cmt_id": "20996e6d81c907b10a5ab57c4172be97cb1a7de1", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "13b52a46a6778fe23e64a20499230738ed3d445b", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "0570c0cd987f7ef0895c46cc715a66c6fe3984b3", 
+            "fixed_version": "4.10.10"
+        }, 
+        "4.4": {
+            "cmt_id": "b26629453c7b2a6c82000b36fbd1cfc4d9101808", 
+            "fixed_version": "4.4.61"
+        }, 
+        "4.9": {
+            "cmt_id": "73ab72517b61ce4b27ceddec47dd5d6edafb556a", 
+            "fixed_version": "4.9.22"
+        }
+    }, 
+    "CVE-2017-7273": {
+        "3.12": {
+            "cmt_id": "5bc00ccfce098d09c1aa097806660d9709fbe956", 
+            "fixed_version": "3.12.70"
+        }, 
+        "3.16": {
+            "cmt_id": "60a990276a03f9a11d86017b1217f3698443c47b", 
+            "fixed_version": "3.16.42"
+        }, 
+        "3.2": {
+            "cmt_id": "4faec4a2ef5dd481682cc155cb9ea14ba2534b76", 
+            "fixed_version": "3.2.87"
+        }, 
+        "4.1": {
+            "cmt_id": "e0fb4ae61143bb6b218aa8bab1730bb156c4d457", 
+            "fixed_version": "4.1.39"
+        }, 
+        "4.4": {
+            "cmt_id": "a2f727149ee4e746da55d209a0179b68d31d3915", 
+            "fixed_version": "4.4.43"
+        }, 
+        "4.9": {
+            "cmt_id": "2c867216c555f5897b327daed6240bfb9e489c97", 
+            "fixed_version": "4.9.4"
+        }
+    }, 
+    "CVE-2017-7277": {
+        "4.10": {
+            "cmt_id": "b073c2c3d40cf6cae56fd08a4bfeeb0e804dc16f", 
+            "fixed_version": "4.10.14"
+        }
+    }, 
+    "CVE-2017-7294": {
+        "3.12": {
+            "cmt_id": "e7fea2a4fa3719517f9a48389e7f3c8b1cc8c299", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "629655f798b92fd309fdde494a3cfb8a37f807ad", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "2e29dce3fd6c31f5d0e623e5a929c06d5436ee60", 
+            "fixed_version": "3.18.50"
+        }, 
+        "3.2": {
+            "cmt_id": "c2e7959f2ea446a417bf2cdb79792575852d17bb", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "d91a91d8f6ba1c98e0822e40b7e4a266d9567813", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "44eed6f024913d16004ce290d986dc59f4408c06", 
+            "fixed_version": "4.10.10"
+        }, 
+        "4.4": {
+            "cmt_id": "c21636bd64c511160846bdf87ef4c7ff48680c99", 
+            "fixed_version": "4.4.61"
+        }, 
+        "4.9": {
+            "cmt_id": "4ddd24d54fedff301e8f020d7b9f70116383af31", 
+            "fixed_version": "4.9.22"
+        }
+    }, 
+    "CVE-2017-7308": {
+        "3.12": {
+            "cmt_id": "0a39eb8a881e83154aadacc36fc8bda8258f1991", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "a481ab4edd87bc2dc6f1fa9029866dd69c86fc5c", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "eeead20a3d208b411eab883f9ba3180c15b566d0", 
+            "fixed_version": "3.18.49"
+        }, 
+        "3.2": {
+            "cmt_id": "091a6de006536c50f8a30db60d994a5b083b1c7b", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "dd07486ceba48b5d2157b212bb9bd5ce9a46b593", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.10": {
+            "cmt_id": "10e13823b0a984d3184031e292d15a99cb4c0b81", 
+            "fixed_version": "4.10.11"
+        }, 
+        "4.4": {
+            "cmt_id": "d35f8fa0b93e61dd95b8f86928a783c4d8a32d3e", 
+            "fixed_version": "4.4.62"
+        }, 
+        "4.9": {
+            "cmt_id": "16fc98c2479f5477f2df220acd9cb53686e33f4c", 
+            "fixed_version": "4.9.23"
+        }
+    }, 
+    "CVE-2017-7346": {
+        "3.16": {
+            "cmt_id": "7943d19453aa1a1acf93bdb2812e0bef970ec23c", 
+            "fixed_version": "3.16.45"
+        }, 
+        "3.18": {
+            "cmt_id": "e3648dc366b1469972f02e023e38bf70f143dc0a", 
+            "fixed_version": "3.18.57"
+        }, 
+        "4.11": {
+            "cmt_id": "6a6a4857199fb593b2e14621304546977a5acff3", 
+            "fixed_version": "4.11.5"
+        }, 
+        "4.4": {
+            "cmt_id": "619cc02fd85d69270c95e7db320b305e975aae00", 
+            "fixed_version": "4.4.72"
+        }, 
+        "4.9": {
+            "cmt_id": "a76ff847013a7f6b1cd328381ca263ddcca12061", 
+            "fixed_version": "4.9.32"
+        }
+    }, 
+    "CVE-2017-7374": {
+        "4.10": {
+            "cmt_id": "0d05871e5e4319e846a9596dd24b7546b1c81eb7", 
+            "fixed_version": "4.10.7"
+        }, 
+        "4.4": {
+            "cmt_id": "7a5202190810dde1467718235c1f650fcf57592a", 
+            "fixed_version": "4.4.59"
+        }, 
+        "4.9": {
+            "cmt_id": "2984e52c75c657db7901f6189f02e0251ca963c2", 
+            "fixed_version": "4.9.20"
+        }
+    }, 
+    "CVE-2017-7472": {
+        "3.12": {
+            "cmt_id": "e5b32c157bdd74cb0b402506c647222e59c6c11c", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "f7ce1014bc5e4bb42d6b9f5afb308f59534067ea", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "6efda2501976288f10895834ba2782d0df093441", 
+            "fixed_version": "3.18.51"
+        }, 
+        "3.2": {
+            "cmt_id": "0ebd7208190d2f7b16fee3cea05665e212cebaab", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "a0f82864854a4511cd19f06436f0cf140fae2427", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "523ae2e9e39a83b16e016c745922f74a6b3b36d0", 
+            "fixed_version": "4.10.13"
+        }, 
+        "4.4": {
+            "cmt_id": "c9460fbceb2f3efa1d20050cdbffa51ec025745a", 
+            "fixed_version": "4.4.64"
+        }, 
+        "4.9": {
+            "cmt_id": "174a74dbca2ddc7269c265598399c000e5b9b870", 
+            "fixed_version": "4.9.25"
+        }
+    }, 
+    "CVE-2017-7477": {
+        "4.10": {
+            "cmt_id": "43a35e671f8f6d0daffa11464f45678994198aa5", 
+            "fixed_version": "4.10.14"
+        }, 
+        "4.11": {
+            "cmt_id": "4d6fa57b4dab0d77f4d8e9d9c73d1e63f6fe8fee", 
+            "fixed_version": "4.11"
+        }, 
+        "4.9": {
+            "cmt_id": "07389a140f48a3d5d223881bb01cef9f389e2844", 
+            "fixed_version": "4.9.26"
+        }
+    }, 
+    "CVE-2017-7482": {
+        "3.16": {
+            "cmt_id": "e3378be9d9cbe1f77ecfc03b4350991be58f3f82", 
+            "fixed_version": "3.16.45"
+        }, 
+        "3.18": {
+            "cmt_id": "9c3a8a0f69e07fbbe31024ebe72b1c8d7607033e", 
+            "fixed_version": "3.18.59"
+        }, 
+        "3.2": {
+            "cmt_id": "09c9faacebb3c1e279ec962cff3072995328ca29", 
+            "fixed_version": "3.2.90"
+        }, 
+        "4.1": {
+            "cmt_id": "84589c8b4819932f41313b7ed4c58881ab466a20", 
+            "fixed_version": "4.1.43"
+        }, 
+        "4.11": {
+            "cmt_id": "575cd7d4cec3ad0aa13c9d156fbcc3979db6f3ae", 
+            "fixed_version": "4.11.8"
+        }, 
+        "4.4": {
+            "cmt_id": "eab38dfd66d7f13b9eecfae7728ff0d2e49ff16f", 
+            "fixed_version": "4.4.75"
+        }, 
+        "4.9": {
+            "cmt_id": "f2060387421109ac389dd209355918b566fc6f84", 
+            "fixed_version": "4.9.35"
+        }
+    }, 
+    "CVE-2017-7487": {
+        "3.16": {
+            "cmt_id": "c64988b55a19fc5c85f85c433976d6e5210f54dc", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "53b5e27b585ecd9d657617890887cb1686153295", 
+            "fixed_version": "3.18.55"
+        }, 
+        "3.2": {
+            "cmt_id": "48dc185bcc73e1bb42d007cbaf96ad55cefaf4cb", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "e8701e0f6768291622b01a3083c3a7e6761f6c51", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.11": {
+            "cmt_id": "b13b3f39851681b3e7f0f4ea2fcea4a0e47f4f0a", 
+            "fixed_version": "4.11.3"
+        }, 
+        "4.4": {
+            "cmt_id": "8a5b15e198f1701da75a8223cfe72c04bcb15160", 
+            "fixed_version": "4.4.70"
+        }, 
+        "4.9": {
+            "cmt_id": "820adccd0e3be9bdd2384ca8fc4712108cfdf28b", 
+            "fixed_version": "4.9.30"
+        }
+    }, 
+    "CVE-2017-7495": {
+        "3.12": {
+            "cmt_id": "10de8b686e90eb57066cf4d04d7ddbc54b4f1833", 
+            "fixed_version": "3.12.70"
+        }, 
+        "3.14": {
+            "cmt_id": "6e853b165d44b259960e6c99e030962dda957475", 
+            "fixed_version": "3.14.76"
+        }, 
+        "3.16": {
+            "cmt_id": "b274508ecc4388f00de57fc6641bf8be2b671908", 
+            "fixed_version": "3.16.37"
+        }, 
+        "3.18": {
+            "cmt_id": "aba6b2d882d2bad5e3996b739fa5ae7f62bf8bf6", 
+            "fixed_version": "3.18.40"
+        }, 
+        "4.1": {
+            "cmt_id": "906d6f4d9cdc8509c505f29f6146ec627fef2f06", 
+            "fixed_version": "4.1.31"
+        }, 
+        "4.4": {
+            "cmt_id": "5a7f477c725e866729307ff87011f8dd812a3cdf", 
+            "fixed_version": "4.4.18"
+        }
+    }, 
+    "CVE-2017-7518": {
+        "3.16": {
+            "cmt_id": "24ee2a286de7ac680ad4b2423c2dcee68444e567", 
+            "fixed_version": "3.16.45"
+        }, 
+        "4.1": {
+            "cmt_id": "c39c42d6c9291e3541cffee226b028961d35a9fb", 
+            "fixed_version": "4.1.47"
+        }, 
+        "4.11": {
+            "cmt_id": "3af2b32a50c23af81403e6fed880f18e9ae0cb30", 
+            "fixed_version": "4.11.8"
+        }, 
+        "4.4": {
+            "cmt_id": "07e3aff243cdcb70d1e81e515aea553df3080f43", 
+            "fixed_version": "4.4.100"
+        }, 
+        "4.9": {
+            "cmt_id": "922e562b2613ae713d661c4fc0f92662f4fe6c41", 
+            "fixed_version": "4.9.55"
+        }
+    }, 
+    "CVE-2017-7533": {
+        "3.16": {
+            "cmt_id": "2cbc76ab0654c9759e390899584c5f788e21dc5a", 
+            "fixed_version": "3.16.47"
+        }, 
+        "3.18": {
+            "cmt_id": "a1dbc0979b4f92f3b0d0bb86671639e09315f43c", 
+            "fixed_version": "3.18.64"
+        }, 
+        "4.12": {
+            "cmt_id": "75791420f2942f47f4fb5626110723668feea9a7", 
+            "fixed_version": "4.12.5"
+        }, 
+        "4.4": {
+            "cmt_id": "407669f2c9fe9f32aeb39f715d748fe456718aac", 
+            "fixed_version": "4.4.80"
+        }, 
+        "4.9": {
+            "cmt_id": "ad25f11ed216d5ce3b5566b2f187b59fa3061b40", 
+            "fixed_version": "4.9.41"
+        }
+    }, 
+    "CVE-2017-7541": {
+        "3.16": {
+            "cmt_id": "c63048a29cf222bcd75823b4ca898e2aa6311f8f", 
+            "fixed_version": "3.16.48"
+        }, 
+        "3.18": {
+            "cmt_id": "ae10cf5c80b897b3a46ef1bdf77a52dd84bd336d", 
+            "fixed_version": "3.18.62"
+        }, 
+        "4.1": {
+            "cmt_id": "e080a193465629231466067e4b5d945deaac29d5", 
+            "fixed_version": "4.1.43"
+        }, 
+        "4.11": {
+            "cmt_id": "0dc4be778d53ba5ffc2ef434f7c6eabdf509e802", 
+            "fixed_version": "4.11.12"
+        }, 
+        "4.12": {
+            "cmt_id": "f888b9ad79954af0c11d3a646129f1d70b951eec", 
+            "fixed_version": "4.12.3"
+        }, 
+        "4.4": {
+            "cmt_id": "4c7021c2fb74047649c03845ce6fd13626a5a418", 
+            "fixed_version": "4.4.78"
+        }, 
+        "4.9": {
+            "cmt_id": "414848bba6ab91fe12ca8105b4652c4aa6f4b574", 
+            "fixed_version": "4.9.39"
+        }
+    }, 
+    "CVE-2017-7542": {
+        "3.16": {
+            "cmt_id": "276cb60b67f5c99bf278b5371c6643e4af63f75d", 
+            "fixed_version": "3.16.47"
+        }, 
+        "3.18": {
+            "cmt_id": "41d33a5b803bd1c3ca84f5bfb9ab77d06ce09fca", 
+            "fixed_version": "3.18.64"
+        }, 
+        "3.2": {
+            "cmt_id": "c5a5d1b1cb8449c77d3cb1663649391635228cff", 
+            "fixed_version": "3.2.92"
+        }, 
+        "4.1": {
+            "cmt_id": "0fc2ceadde169a55e531811bf4f0047fedd0a835", 
+            "fixed_version": "4.1.44"
+        }, 
+        "4.12": {
+            "cmt_id": "663f828a08af6f54c4f11c1eb16e68ad7a93c34c", 
+            "fixed_version": "4.12.6"
+        }, 
+        "4.4": {
+            "cmt_id": "f09db7559c1faf6f7c2128a92050b978a480681c", 
+            "fixed_version": "4.4.81"
+        }, 
+        "4.9": {
+            "cmt_id": "4a2ffe1707e3787f93a7d0ff2dec682a57ba25ad", 
+            "fixed_version": "4.9.42"
+        }
+    }, 
+    "CVE-2017-7558": {
+        "4.12": {
+            "cmt_id": "6da138247b47105eca005464383cae11ac57bdab", 
+            "fixed_version": "4.12.14"
+        }, 
+        "4.13": {
+            "cmt_id": "ee6c88bb754e3d363e568da78086adfedb692447", 
+            "fixed_version": "4.13"
+        }, 
+        "4.9": {
+            "cmt_id": "08d56d8a99bb82e134ba7704e4cfdabbcc16fc4f", 
+            "fixed_version": "4.9.51"
+        }
+    }, 
+    "CVE-2017-7616": {
+        "3.12": {
+            "cmt_id": "9840e8fb9edaa9a930eb6f922f61cfbf91073c51", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "4474624a1a496e4dc93a2cd49ea915d9c90d80e9", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "c01cf9586df930e721f608578329496081c9624a", 
+            "fixed_version": "3.18.50"
+        }, 
+        "3.2": {
+            "cmt_id": "3f3b4a9db31af279e793229177b63ea201e24629", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "aa612d59c08f52a1ee508a12d95deb012e2163d2", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.10": {
+            "cmt_id": "d57c764a703b867a520a171a3430514bf51e71e4", 
+            "fixed_version": "4.10.10"
+        }, 
+        "4.4": {
+            "cmt_id": "b73d08ce20c5cb2e0cec8c019a27b9574e2c4ec2", 
+            "fixed_version": "4.4.61"
+        }, 
+        "4.9": {
+            "cmt_id": "cddab768d13469d1e254fb8c0e1629f93c8dfaca", 
+            "fixed_version": "4.9.22"
+        }
+    }, 
+    "CVE-2017-7618": {
+        "3.16": {
+            "cmt_id": "13af702256f8b7d9bb51b86c982fe08e96c589c8", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "c2798145e731005fa1e6ee2a489940c1dd8f03e4", 
+            "fixed_version": "3.18.50"
+        }, 
+        "3.2": {
+            "cmt_id": "82ef3e7b16e777db114a0c3699b91134417fe8c9", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "ce0e21e44f9766aeef6a8c18a750ef9d94c1ca8c", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "cb0567fc5114948df953403133944db83999ab48", 
+            "fixed_version": "4.10.12"
+        }, 
+        "4.4": {
+            "cmt_id": "2673d1c5122ee2492e24d9a135e230b2d0b2e630", 
+            "fixed_version": "4.4.63"
+        }, 
+        "4.9": {
+            "cmt_id": "c10479591869177ae7ac0570b54ace6fbdeb57c2", 
+            "fixed_version": "4.9.24"
+        }
+    }, 
+    "CVE-2017-7645": {
+        "3.12": {
+            "cmt_id": "7a6875988a7fce567e4ee22481d6e7dd82a33eff", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "1d4ab03084d4bace93b1573c57a309e954d05c09", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "a1552b1c52d9c2ed48b21f722c1bd7f0ffbdb398", 
+            "fixed_version": "3.18.52"
+        }, 
+        "3.2": {
+            "cmt_id": "1eb3e42d91d63fc757a8da38683f417bcdf953a2", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "c9bb9f02b0484703ca5d0da15a11f891954e1c31", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "86eb1d0aab0d1d84a048052a3c7fbbe0bba9f100", 
+            "fixed_version": "4.10.14"
+        }, 
+        "4.11": {
+            "cmt_id": "e6838a29ecb484c97e4efef9429643b9851fba6e", 
+            "fixed_version": "4.11"
+        }, 
+        "4.4": {
+            "cmt_id": "82a0d8aabe043ac94efa255502754c70363dab0e", 
+            "fixed_version": "4.4.66"
+        }, 
+        "4.9": {
+            "cmt_id": "fc6445df466f37291a70937642068bda78802a5b", 
+            "fixed_version": "4.9.26"
+        }
+    }, 
+    "CVE-2017-7889": {
+        "3.12": {
+            "cmt_id": "59546b98395d875f4f85cb1cbac0b5396e3ffe45", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "3cbd86d25eeb61e57cb3367fe302c271b0c70fb2", 
+            "fixed_version": "3.16.46"
+        }, 
+        "3.18": {
+            "cmt_id": "be63d158bba15c468d474808b60e6ac2417a933b", 
+            "fixed_version": "3.18.50"
+        }, 
+        "3.2": {
+            "cmt_id": "b8f254aa17f720053054c4ecff3920973a83b9d6", 
+            "fixed_version": "3.2.91"
+        }, 
+        "4.1": {
+            "cmt_id": "eb618d2eb22bb0e1843fb17431fdd18253918cb8", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.10": {
+            "cmt_id": "b1bfb5083bfa79d1400009ac6265bfb5f2c09ec9", 
+            "fixed_version": "4.10.12"
+        }, 
+        "4.4": {
+            "cmt_id": "6739cc12f3dbd7e4b3795f6e809d44ea6b490bb6", 
+            "fixed_version": "4.4.63"
+        }, 
+        "4.9": {
+            "cmt_id": "2c0ad235ac77f2fc2eee593bf06822cad772e0e2", 
+            "fixed_version": "4.9.24"
+        }
+    }, 
+    "CVE-2017-7895": {
+        "3.16": {
+            "cmt_id": "bb0ea8af0b69259f5ea1d2fcff52948c98129c5e", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.2": {
+            "cmt_id": "6b9ba0c00cb068a50a409bbdc7cfbe473f1c01a3", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "5afff19d82af4e4ed66ce0320cd2f17053b78b25", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "43e360377b09107e6c3b278c49f41fcc58802fdd", 
+            "fixed_version": "4.10.14"
+        }, 
+        "4.11": {
+            "cmt_id": "13bf9fbff0e5e099e2b6f003a0ab8ae145436309", 
+            "fixed_version": "4.11"
+        }, 
+        "4.4": {
+            "cmt_id": "da1ce38aaac7f08d319b4b76130aa4fd27c4489f", 
+            "fixed_version": "4.4.67"
+        }, 
+        "4.9": {
+            "cmt_id": "d7809b9e99bb75e83bdd13dc70ce27df61faf5de", 
+            "fixed_version": "4.9.26"
+        }
+    }, 
+    "CVE-2017-8061": {
+        "4.10": {
+            "cmt_id": "aacb73b7ae2f3aa5588de8d745fc59736a144cfa", 
+            "fixed_version": "4.10.7"
+        }, 
+        "4.9": {
+            "cmt_id": "28d1e8b7ef81d254583f68627095f8a85e39597d", 
+            "fixed_version": "4.9.24"
+        }
+    }, 
+    "CVE-2017-8062": {
+        "4.10": {
+            "cmt_id": "be20197df07db889c8825ce99fa2ee700894e91c", 
+            "fixed_version": "4.10.4"
+        }, 
+        "4.9": {
+            "cmt_id": "06996254a605913cd7c1927d0e8a89b5138e110d", 
+            "fixed_version": "4.9.16"
+        }
+    }, 
+    "CVE-2017-8063": {
+        "4.10": {
+            "cmt_id": "e0116f4d9a9ad5112d315b236c7b3d7036d404d7", 
+            "fixed_version": "4.10.12"
+        }, 
+        "4.9": {
+            "cmt_id": "fb00319317c152bf3528df13a54c28bf8c5daa55", 
+            "fixed_version": "4.9.24"
+        }
+    }, 
+    "CVE-2017-8064": {
+        "3.12": {
+            "cmt_id": "03662cd00e03d0fe34f9f91217313a4544b71c60", 
+            "fixed_version": "3.12.74"
+        }, 
+        "3.16": {
+            "cmt_id": "522182342410708c54eb2b33ff36e85f0b045a6d", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "c59f266fa87e8413db93040348db33f1995bb2b4", 
+            "fixed_version": "3.18.50"
+        }, 
+        "4.1": {
+            "cmt_id": "4473dc376c48ea0be28a087922b97c90333f22ce", 
+            "fixed_version": "4.1.41"
+        }, 
+        "4.10": {
+            "cmt_id": "765c74b9cc2719d24bdca7ca43d6bfd298109337", 
+            "fixed_version": "4.10.12"
+        }, 
+        "4.4": {
+            "cmt_id": "0cb03b6e7086e59647cf6eb79fec646cdec69691", 
+            "fixed_version": "4.4.63"
+        }, 
+        "4.9": {
+            "cmt_id": "1992564156b5dc4ac73418e5b95e1a43f12f3cb1", 
+            "fixed_version": "4.9.24"
+        }
+    }, 
+    "CVE-2017-8066": {
+        "4.10": {
+            "cmt_id": "e9394d5a762dc04958ea933bd5d2df096491ea04", 
+            "fixed_version": "4.10.2"
+        }, 
+        "4.9": {
+            "cmt_id": "cec7abd27e878e3c83dc9af41ee87a2e9d483ac0", 
+            "fixed_version": "4.9.14"
+        }
+    }, 
+    "CVE-2017-8067": {
+        "4.10": {
+            "cmt_id": "e5349c13c7a8bd6e0be0f81f4464fc2edae05d5b", 
+            "fixed_version": "4.10.12"
+        }, 
+        "4.9": {
+            "cmt_id": "86c6667f6a5f6bdb392d8ffbe58fbcbcf6db2704", 
+            "fixed_version": "4.9.24"
+        }
+    }, 
+    "CVE-2017-8068": {
+        "4.9": {
+            "cmt_id": "878b015bcc726560b13be2d906caf6923428f05d", 
+            "fixed_version": "4.9.11"
+        }
+    }, 
+    "CVE-2017-8069": {
+        "4.9": {
+            "cmt_id": "e898f6f008aa91c154c9c8fb7be3fb9ec4d333ec", 
+            "fixed_version": "4.9.11"
+        }
+    }, 
+    "CVE-2017-8070": {
+        "4.9": {
+            "cmt_id": "970390fd5d53de0817b538350131edd2514a8321", 
+            "fixed_version": "4.9.11"
+        }
+    }, 
+    "CVE-2017-8071": {
+        "4.9": {
+            "cmt_id": "a18c4584a48931e8048508469bcdb53c6082221a", 
+            "fixed_version": "4.9.9"
+        }
+    }, 
+    "CVE-2017-8072": {
+        "4.9": {
+            "cmt_id": "7396685a1bca323b96fd79b836ae22b7569d7068", 
+            "fixed_version": "4.9.9"
+        }
+    }, 
+    "CVE-2017-8240": {
+        "3.18": {
+            "cmt_id": "ce441cb4f15f5d6d7fc509dae6c9e00b56aadb45", 
+            "fixed_version": "3.18.5"
+        }
+    }, 
+    "CVE-2017-8797": {
+        "4.11": {
+            "cmt_id": "06cc61e8f9edb5d50156622c0940b32e8cca0f3a", 
+            "fixed_version": "4.11.3"
+        }, 
+        "4.9": {
+            "cmt_id": "ea465551af30146efea215da58786ff732da70fb", 
+            "fixed_version": "4.9.30"
+        }
+    }, 
+    "CVE-2017-8824": {
+        "3.16": {
+            "cmt_id": "37e923d49eb8219cab4e49237d026755276484a0", 
+            "fixed_version": "3.16.52"
+        }, 
+        "3.2": {
+            "cmt_id": "e23d13a89d8ca5fe717d75248672e1b8bc4a3be8", 
+            "fixed_version": "3.2.97"
+        }
+    }, 
+    "CVE-2017-8831": {
+        "3.16": {
+            "cmt_id": "f6c711a2f630b15479466f5b25b25850b04a7106", 
+            "fixed_version": "3.16.49"
+        }, 
+        "3.2": {
+            "cmt_id": "10c59d27363eba9fece1965293f83d865ba532be", 
+            "fixed_version": "3.2.94"
+        }, 
+        "4.1": {
+            "cmt_id": "0b3294aae7bc3940a659928e352ffb0588dfeb54", 
+            "fixed_version": "4.1.44"
+        }, 
+        "4.12": {
+            "cmt_id": "52bc1dfd016e7a1859138d986670408fc3d830a0", 
+            "fixed_version": "4.12.6"
+        }, 
+        "4.4": {
+            "cmt_id": "deae9956cfb42f3d480c71f416f934d3ce84c033", 
+            "fixed_version": "4.4.81"
+        }, 
+        "4.9": {
+            "cmt_id": "12d17d78e3f74b5022f61eee7d6de082e472a401", 
+            "fixed_version": "4.9.42"
+        }
+    }, 
+    "CVE-2017-8890": {
+        "3.16": {
+            "cmt_id": "e4d8daa3b0d195c8aead116dd70aad8124be60c3", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "4bb305d07ffbc616d1594e2144cc2417eb44fcd5", 
+            "fixed_version": "3.18.56"
+        }, 
+        "3.2": {
+            "cmt_id": "3d221359fedfc759661fb4a72804b6e798886e8f", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "4e0ecb773276404a4a0788e1398bee22719336b4", 
+            "fixed_version": "4.1.42"
+        }, 
+        "4.11": {
+            "cmt_id": "db8ebc6da8cfd1057dc94e69fbd7a8c5ff34cef6", 
+            "fixed_version": "4.11.4"
+        }, 
+        "4.4": {
+            "cmt_id": "5f67a1663c03a73962fb240cf821338f78981a23", 
+            "fixed_version": "4.4.71"
+        }, 
+        "4.9": {
+            "cmt_id": "4eed44029507acc666ac7afe9c6a8ea0abf857b7", 
+            "fixed_version": "4.9.31"
+        }
+    }, 
+    "CVE-2017-8924": {
+        "3.12": {
+            "cmt_id": "ef598b806384182a74f2aa9bc24a0284faf3940e", 
+            "fixed_version": "3.12.73"
+        }, 
+        "3.16": {
+            "cmt_id": "f7287278eea268132ab71b30a0425ccf3a13a323", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "1f5371cc84232fc5b3140713d681b35641c56c17", 
+            "fixed_version": "3.18.49"
+        }, 
+        "3.2": {
+            "cmt_id": "6d0c587048c85ca94723fc1bd900130cbe875eb3", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "e0f57e1a406c091646d7f474572975aab4c6d1de", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "7daf817d076d0cfa63491423bcb33ac3bac56994", 
+            "fixed_version": "4.10.4"
+        }, 
+        "4.4": {
+            "cmt_id": "72bb2b96b8568a74f28e2a2c39e005583595b2c2", 
+            "fixed_version": "4.4.55"
+        }, 
+        "4.9": {
+            "cmt_id": "d0ef6ecee85e17742d8bce1559872cb542d6ccac", 
+            "fixed_version": "4.9.16"
+        }
+    }, 
+    "CVE-2017-8925": {
+        "3.12": {
+            "cmt_id": "5b6983c42e4406e92b51a705c24190e1054cb60d", 
+            "fixed_version": "3.12.73"
+        }, 
+        "3.16": {
+            "cmt_id": "e766215595e90b7a307cc7c7054ff43e96340731", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "d064efcbd6ed7526ad075a9ad5ef28b1d398ab46", 
+            "fixed_version": "3.18.49"
+        }, 
+        "3.2": {
+            "cmt_id": "8b236342396140be22ab9b486c412666f161af78", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "5dfb04937689e5f797506ee73f028f919cc9278d", 
+            "fixed_version": "4.1.40"
+        }, 
+        "4.10": {
+            "cmt_id": "cc6ba470ebf84af1898dc305b307b0564c3963e6", 
+            "fixed_version": "4.10.4"
+        }, 
+        "4.4": {
+            "cmt_id": "54f11a9662b632defe4d75c7574fddbc5c503c9c", 
+            "fixed_version": "4.4.55"
+        }, 
+        "4.9": {
+            "cmt_id": "6d6c5895f45431579c20f4183b25183f0e3afc92", 
+            "fixed_version": "4.9.16"
+        }
+    }, 
+    "CVE-2017-9059": {
+        "4.9": {
+            "cmt_id": "f609266b12d214437cf9d68245dc27f8d4f69836", 
+            "fixed_version": "4.9.52"
+        }
+    }, 
+    "CVE-2017-9074": {
+        "3.16": {
+            "cmt_id": "3bff722de601acaf593a1ade13fbbee54b688e9b", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "5ca68dbb5a6bb81c6119a6808e1dd8d1a53febc8", 
+            "fixed_version": "3.18.56"
+        }, 
+        "3.2": {
+            "cmt_id": "ad8a4d9d3f255a783d534a47d4b4ac611bb291d8", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "e7f05ff30b0cd72b00c8ca7be3cd48fedf96550f", 
+            "fixed_version": "4.1.42"
+        }, 
+        "4.11": {
+            "cmt_id": "9909e4e4ff16e3f66b4e33e118621d7fe92fc6d4", 
+            "fixed_version": "4.11.4"
+        }, 
+        "4.4": {
+            "cmt_id": "017fabead5c2aacb36df910bbfbfb1e813517ae3", 
+            "fixed_version": "4.4.71"
+        }, 
+        "4.9": {
+            "cmt_id": "a2c845e51a820549a6df5a1e8907ee754422119e", 
+            "fixed_version": "4.9.31"
+        }
+    }, 
+    "CVE-2017-9075": {
+        "3.16": {
+            "cmt_id": "60e7579f4b71e2e8b252d2f1b3ef5ffb3b971a4e", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "56fd34c68676131cce13b0031990e49e80d3ee99", 
+            "fixed_version": "3.18.56"
+        }, 
+        "3.2": {
+            "cmt_id": "cc1fa7814bdb7ebee2ee79bbce181c0783de9ad5", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "e7b4f3d39f46530f340af6eabbc60fbad9f94f05", 
+            "fixed_version": "4.1.42"
+        }, 
+        "4.11": {
+            "cmt_id": "703a20827411c3906b644713bc4462d4b3fb6a5f", 
+            "fixed_version": "4.11.4"
+        }, 
+        "4.4": {
+            "cmt_id": "ffa551def59c9b0e1747955af6a742443ae152fc", 
+            "fixed_version": "4.4.71"
+        }, 
+        "4.9": {
+            "cmt_id": "5e7d9f0b3f729a64b99e58047f7bb0ff36acb759", 
+            "fixed_version": "4.9.31"
+        }
+    }, 
+    "CVE-2017-9076": {
+        "3.16": {
+            "cmt_id": "53d48f98b800059504da76d12bf0074581aa0fe2", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "3f45934ed0bd864f878a78c3dfbd1ad437ba427f", 
+            "fixed_version": "3.18.84"
+        }, 
+        "3.2": {
+            "cmt_id": "0767192a2c4ac9145a7e8fb00370963bc145a920", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.11": {
+            "cmt_id": "8e929937f8813fb209a2d733ee1367db80b6f622", 
+            "fixed_version": "4.11.4"
+        }, 
+        "4.4": {
+            "cmt_id": "d1428ee5407396185aab56ca62d49e89726455e0", 
+            "fixed_version": "4.4.71"
+        }, 
+        "4.9": {
+            "cmt_id": "4bd8f5e38e5a1612ce4373068b518b14d3e38ec8", 
+            "fixed_version": "4.9.31"
+        }
+    }, 
+    "CVE-2017-9077": {
+        "3.16": {
+            "cmt_id": "53d48f98b800059504da76d12bf0074581aa0fe2", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "3f45934ed0bd864f878a78c3dfbd1ad437ba427f", 
+            "fixed_version": "3.18.84"
+        }, 
+        "3.2": {
+            "cmt_id": "0767192a2c4ac9145a7e8fb00370963bc145a920", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.11": {
+            "cmt_id": "8e929937f8813fb209a2d733ee1367db80b6f622", 
+            "fixed_version": "4.11.4"
+        }, 
+        "4.4": {
+            "cmt_id": "d1428ee5407396185aab56ca62d49e89726455e0", 
+            "fixed_version": "4.4.71"
+        }, 
+        "4.9": {
+            "cmt_id": "4bd8f5e38e5a1612ce4373068b518b14d3e38ec8", 
+            "fixed_version": "4.9.31"
+        }
+    }, 
+    "CVE-2017-9150": {
+        "4.10": {
+            "cmt_id": "c35107a3bec206f68402236a16be537b6ffce070", 
+            "fixed_version": "4.10.16"
+        }, 
+        "4.11": {
+            "cmt_id": "ced12308e58cc95002404b584fdc756a233581ab", 
+            "fixed_version": "4.11.1"
+        }, 
+        "4.4": {
+            "cmt_id": "49630dd2e10a3b2fee0cec19feb63f08453b876f", 
+            "fixed_version": "4.4.100"
+        }, 
+        "4.9": {
+            "cmt_id": "ced0a31e667fbf618591f0a76a8213018407cde0", 
+            "fixed_version": "4.9.28"
+        }
+    }, 
+    "CVE-2017-9211": {
+        "4.11": {
+            "cmt_id": "f5eef8d2458bb569ca521b3c2b0a19af62536745", 
+            "fixed_version": "4.11.4"
+        }, 
+        "4.9": {
+            "cmt_id": "4472887cbd1373d7781bea9d8935f2d4968dd580", 
+            "fixed_version": "4.9.31"
+        }
+    }, 
+    "CVE-2017-9242": {
+        "3.16": {
+            "cmt_id": "55c51263ff43e3bf5deb1425f4221696f94db1be", 
+            "fixed_version": "3.16.44"
+        }, 
+        "3.18": {
+            "cmt_id": "1d31de23f617332861b9767ad137b73e953be60b", 
+            "fixed_version": "3.18.56"
+        }, 
+        "3.2": {
+            "cmt_id": "e5238fca9694d61861096d5fb80685c9f6581555", 
+            "fixed_version": "3.2.89"
+        }, 
+        "4.1": {
+            "cmt_id": "d78ddec4e7fb482e27514466ae8a738ef61a9f53", 
+            "fixed_version": "4.1.42"
+        }, 
+        "4.11": {
+            "cmt_id": "827624c3d1cfd1b569ec2c6593a6a50ab65c72bb", 
+            "fixed_version": "4.11.4"
+        }, 
+        "4.4": {
+            "cmt_id": "38f02f2ce0ca58c45d95567a5d64f7dc90aa9c95", 
+            "fixed_version": "4.4.71"
+        }, 
+        "4.9": {
+            "cmt_id": "304b41014acbdc5fa5126c86bac31dc41a245f9f", 
+            "fixed_version": "4.9.31"
+        }
+    }, 
+    "CVE-2017-9605": {
+        "3.16": {
+            "cmt_id": "26823129d84c6ca3e12b17af7a8e78c579b3bca5", 
+            "fixed_version": "3.16.46"
+        }, 
+        "4.11": {
+            "cmt_id": "3bc7a4a5643e79a819ac56132826480d5102d48c", 
+            "fixed_version": "4.11.5"
+        }, 
+        "4.4": {
+            "cmt_id": "74276868b45585f77eae2372c95e016aacfd0d3c", 
+            "fixed_version": "4.4.72"
+        }, 
+        "4.9": {
+            "cmt_id": "7860d0e5e2bf986d4bd06e7b029786747b5dc766", 
+            "fixed_version": "4.9.32"
+        }
+    }, 
+    "CVE-2017-9984": {
+        "3.18": {
+            "cmt_id": "bceac1033cd99ff5d2aaa69c700367f866bf6f04", 
+            "fixed_version": "3.18.71"
+        }, 
+        "4.1": {
+            "cmt_id": "77425f99e279723ed8bccd0905ba415ab803ad8d", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.12": {
+            "cmt_id": "9d6412aa06ce75e44fbaf1bfa15454150fd6a803", 
+            "fixed_version": "4.12.13"
+        }, 
+        "4.4": {
+            "cmt_id": "55681470154567b4a8a30ec8b35a8ebd5a4f3608", 
+            "fixed_version": "4.4.88"
+        }, 
+        "4.9": {
+            "cmt_id": "03bea515b9a2f2a48d46a5a4bcc69be264afb6af", 
+            "fixed_version": "4.9.50"
+        }
+    }, 
+    "CVE-2017-9985": {
+        "3.18": {
+            "cmt_id": "bceac1033cd99ff5d2aaa69c700367f866bf6f04", 
+            "fixed_version": "3.18.71"
+        }, 
+        "4.1": {
+            "cmt_id": "77425f99e279723ed8bccd0905ba415ab803ad8d", 
+            "fixed_version": "4.1.45"
+        }, 
+        "4.12": {
+            "cmt_id": "9d6412aa06ce75e44fbaf1bfa15454150fd6a803", 
+            "fixed_version": "4.12.13"
+        }, 
+        "4.4": {
+            "cmt_id": "55681470154567b4a8a30ec8b35a8ebd5a4f3608", 
+            "fixed_version": "4.4.88"
+        }, 
+        "4.9": {
+            "cmt_id": "03bea515b9a2f2a48d46a5a4bcc69be264afb6af", 
+            "fixed_version": "4.9.50"
+        }
+    }, 
+    "CVE-2018-1000004": {
+        "3.16": {
+            "cmt_id": "02cbce8576a31df8fca54aaec91ee081076bd79d", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.18": {
+            "cmt_id": "6aab3aa52366a0051e5abf8aae4616c42053fd8e", 
+            "fixed_version": "3.18.94"
+        }, 
+        "3.2": {
+            "cmt_id": "d6693160906d55ba376bf0b88b7c129762170162", 
+            "fixed_version": "3.2.99"
+        }, 
+        "4.14": {
+            "cmt_id": "c3162384aed4cfe3f1a1f40041f3ba8cd7704d88", 
+            "fixed_version": "4.14.15"
+        }, 
+        "4.4": {
+            "cmt_id": "623e5c8ae32b39cc8baea83478695dc624935318", 
+            "fixed_version": "4.4.115"
+        }, 
+        "4.9": {
+            "cmt_id": "e4ff9f294629b65df3f7982cd4faf86b2856b9d7", 
+            "fixed_version": "4.9.78"
+        }
+    }, 
+    "CVE-2018-1000028": {
+        "4.15": {
+            "cmt_id": "1995266727fa8143897e89b55f5d3c79aa828420", 
+            "fixed_version": "4.15"
+        }
+    }, 
+    "CVE-2018-5332": {
+        "3.16": {
+            "cmt_id": "a64a21f6de4faf41b74800275be0552f55e83699", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.18": {
+            "cmt_id": "a7b25c9f6ea92d582bda195eca561b9cb605ea91", 
+            "fixed_version": "3.18.92"
+        }, 
+        "3.2": {
+            "cmt_id": "60daca9efbb3e4109ebc1f7069543e5573fc124e", 
+            "fixed_version": "3.2.99"
+        }, 
+        "4.14": {
+            "cmt_id": "5d127d15ad2f9f33af788f1edf720ba29317f55b", 
+            "fixed_version": "4.14.14"
+        }, 
+        "4.4": {
+            "cmt_id": "10d06ed9a1899fcc1ecb7a1573f0f95b92dc470c", 
+            "fixed_version": "4.4.112"
+        }, 
+        "4.9": {
+            "cmt_id": "cebb382931c4fb341162eae80b696650260e4a2b", 
+            "fixed_version": "4.9.77"
+        }
+    }, 
+    "CVE-2018-5333": {
+        "3.16": {
+            "cmt_id": "c8b61a6ecfb90c7fb4f824df2448b923954de170", 
+            "fixed_version": "3.16.54"
+        }, 
+        "3.18": {
+            "cmt_id": "3396f2bef5ede06f73c0be43975ce837767785ed", 
+            "fixed_version": "3.18.92"
+        }, 
+        "3.2": {
+            "cmt_id": "57e49cc5d8048f4274b3b2c8ec075f656f8a3ed1", 
+            "fixed_version": "3.2.99"
+        }, 
+        "4.14": {
+            "cmt_id": "5edbe3c0249f54578636b71377861d579b1781cf", 
+            "fixed_version": "4.14.14"
+        }, 
+        "4.4": {
+            "cmt_id": "44496521c6bd65a3c525b490c762875a075cf73b", 
+            "fixed_version": "4.4.112"
+        }, 
+        "4.9": {
+            "cmt_id": "ce31b6ac1111096ae9bb0b45f4ba564a909bb366", 
+            "fixed_version": "4.9.77"
+        }
+    }, 
+    "CVE-2018-5344": {
+        "3.18": {
+            "cmt_id": "524a6efbd1234439ba00176006ed95ad7d007da6", 
+            "fixed_version": "3.18.94"
+        }, 
+        "4.14": {
+            "cmt_id": "d5e06a1867210049bbfe27864ee0a40cfd9b1e9b", 
+            "fixed_version": "4.14.17"
+        }, 
+        "4.4": {
+            "cmt_id": "b392225467b8066538dfa200dc925c844b76880b", 
+            "fixed_version": "4.4.115"
+        }, 
+        "4.9": {
+            "cmt_id": "56bc086358cac1a2949783646eabd57447b9d672", 
+            "fixed_version": "4.9.80"
+        }
+    }, 
+    "CVE-2018-6927": {
+        "3.18": {
+            "cmt_id": "ad211e59c68389b9203f3834c65da7bfe9e6874a", 
+            "fixed_version": "3.18.93"
+        }, 
+        "4.14": {
+            "cmt_id": "17ae6ccfe5dd85605dc44534348b506f95d16a61", 
+            "fixed_version": "4.14.15"
+        }, 
+        "4.4": {
+            "cmt_id": "58c82be944f58561e77eb9db5039a4b0eca96ac5", 
+            "fixed_version": "4.4.113"
+        }, 
+        "4.9": {
+            "cmt_id": "d8a3170db0deca6bfee32ad77f492caba9f6791d", 
+            "fixed_version": "4.9.78"
         }
     }
 }

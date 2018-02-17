@@ -35,7 +35,7 @@ CVE-2015-7566: Fixed with 4.1.18
 CVE-2015-7613: Fixed with 4.1.11
 CVE-2015-7799: Fixed with 4.1.17
 CVE-2015-7872: Fixed with 4.1.16
-CVE-2015-7884: Fix not seen in stream
+CVE-2015-7884: Fixed with 4.1.17
 CVE-2015-7885: Fix not seen in stream
 CVE-2015-8104: Fixed with 4.1.17
 CVE-2015-8374: Fixed with 4.1.15
@@ -65,6 +65,7 @@ CVE-2015-8963: Fix not seen in stream
 CVE-2015-8964: Fix not seen in stream
 CVE-2015-8966: Fix not seen in stream
 CVE-2015-8970: Fixed with 4.1.19
+CVE-2015-9016: Fix not seen in stream
 CVE-2016-0723: Fixed with 4.1.18
 CVE-2016-0728: Fixed with 4.1.16
 CVE-2016-0758: Fix not seen in stream
@@ -74,6 +75,8 @@ CVE-2016-10088: Fixed with 4.1.38
 CVE-2016-10147: Fix not seen in stream
 CVE-2016-10200: Fix not seen in stream
 CVE-2016-10208: Fix not seen in stream
+CVE-2016-10229: Fixed with 4.1.40
+CVE-2016-10318: Fix not seen in stream
 CVE-2016-1237: Fixed with 4.1.31
 CVE-2016-1575: Fixed with 4.1.18
 CVE-2016-1576: Fixed with 4.1.18
@@ -87,7 +90,7 @@ CVE-2016-2184: Fixed with 4.1.22
 CVE-2016-2185: Fixed with 4.1.22
 CVE-2016-2186: Fixed with 4.1.22
 CVE-2016-2187: Fixed with 4.1.24
-CVE-2016-2188: Fix not seen in stream
+CVE-2016-2188: Fixed with 4.1.40
 CVE-2016-2383: Fixed with 4.1.19
 CVE-2016-2384: Fixed with 4.1.19
 CVE-2016-2543: Fixed with 4.1.17
@@ -155,9 +158,9 @@ CVE-2016-7425: Fixed with 4.1.37
 CVE-2016-7910: Fixed with 4.1.31
 CVE-2016-7911: Fixed with 4.1.29
 CVE-2016-7912: Fixed with 4.1.24
-CVE-2016-7913: Fix not seen in stream
+CVE-2016-7913: Fixed with 4.1.41
 CVE-2016-7914: Fixed with 4.1.23
-CVE-2016-7915: Fix not seen in stream
+CVE-2016-7915: Fixed with 4.1.43
 CVE-2016-7916: Fixed with 4.1.28
 CVE-2016-7917: Fix not seen in stream
 CVE-2016-8399: Fixed with 4.1.37
@@ -171,13 +174,14 @@ CVE-2016-8650: Fix not seen in stream
 CVE-2016-8655: Fixed with 4.1.37
 CVE-2016-8658: Fix not seen in stream
 CVE-2016-8666: Fixed with 4.1.38
-CVE-2016-9083: Fix not seen in stream
-CVE-2016-9084: Fix not seen in stream
-CVE-2016-9120: Fix not seen in stream
+CVE-2016-9083: Fixed with 4.1.41
+CVE-2016-9084: Fixed with 4.1.41
+CVE-2016-9120: Fixed with 4.1.41
 CVE-2016-9178: Fixed with 4.1.34
 CVE-2016-9191: Fixed with 4.1.39
 CVE-2016-9555: Fix not seen in stream
 CVE-2016-9588: Fixed with 4.1.38
+CVE-2016-9604: Fixed with 4.1.40
 CVE-2016-9644: Fixed with 4.1.36
 CVE-2016-9685: Fixed with 4.1.22
 CVE-2016-9754: Fixed with 4.1.26
@@ -185,27 +189,182 @@ CVE-2016-9756: Fix not seen in stream
 CVE-2016-9793: Fix not seen in stream
 CVE-2016-9794: Fix not seen in stream
 CVE-2016-9806: Fixed with 4.1.28
+CVE-2017-0750: Fixed with 4.1.41
+CVE-2017-0786: Fixed with 4.1.46
+CVE-2017-0861: Fixed with 4.1.49
+CVE-2017-1000111: Fixed with 4.1.44
+CVE-2017-1000112: Fix not seen in stream
+CVE-2017-1000251: Fixed with 4.1.45
+CVE-2017-1000252: Fix not seen in stream
+CVE-2017-1000363: Fixed with 4.1.41
+CVE-2017-1000364: Fixed with 4.1.42
+CVE-2017-1000365: Fixed with 4.1.43
+CVE-2017-1000370: Fixed with 4.1.43
+CVE-2017-1000371: Fixed with 4.1.43
+CVE-2017-1000379: Fixed with 4.1.42
+CVE-2017-1000380: Fixed with 4.1.42
+CVE-2017-1000405: Fix not seen in stream
+CVE-2017-1000407: Fixed with 4.1.49
+CVE-2017-1000410: Fixed with 4.1.45
+CVE-2017-10661: Fixed with 4.1.41
+CVE-2017-10662: Fixed with 4.1.41
+CVE-2017-10663: Fixed with 4.1.44
+CVE-2017-10810: Fix not seen in stream
+CVE-2017-10911: Fixed with 4.1.47
+CVE-2017-11176: Fixed with 4.1.43
+CVE-2017-11472: Fix not seen in stream
+CVE-2017-11473: Fixed with 4.1.44
+CVE-2017-11600: Fixed with 4.1.45
+CVE-2017-12134: Fix not seen in stream
+CVE-2017-12146: Fixed with 4.1.43
+CVE-2017-12153: Fixed with 4.1.46
+CVE-2017-12154: Fixed with 4.1.46
+CVE-2017-12168: Fix not seen in stream
+CVE-2017-12190: Fixed with 4.1.46
+CVE-2017-12192: Fixed with 4.1.46
+CVE-2017-12193: Fixed with 4.1.46
+CVE-2017-12762: Fix not seen in stream
+CVE-2017-13080: Fixed with 4.1.47
+CVE-2017-13215: Fix not seen in stream
+CVE-2017-13216: Fix not seen in stream
+CVE-2017-13220: Fix unknown
+CVE-2017-13693: Fix unknown
+CVE-2017-13694: Fix unknown
+CVE-2017-13695: Fix unknown
+CVE-2017-14051: Fixed with 4.1.45
+CVE-2017-14106: Fixed with 4.1.45
+CVE-2017-14140: Fix not seen in stream
+CVE-2017-14156: Fixed with 4.1.46
+CVE-2017-14340: Fixed with 4.1.45
+CVE-2017-14489: Fixed with 4.1.46
+CVE-2017-14991: Fixed with 4.1.45
+CVE-2017-15102: Fix not seen in stream
+CVE-2017-15115: Fixed with 4.1.47
+CVE-2017-15116: Fix not seen in stream
+CVE-2017-15127: Fix not seen in stream
+CVE-2017-15128: Fix not seen in stream
+CVE-2017-15129: Fix not seen in stream
+CVE-2017-15265: Fixed with 4.1.46
+CVE-2017-15274: Fixed with 4.1.49
+CVE-2017-15299: Fixed with 4.1.46
+CVE-2017-15537: Fix not seen in stream
+CVE-2017-15649: Fixed with 4.1.46
+CVE-2017-16525: Fixed with 4.1.46
+CVE-2017-16526: Fixed with 4.1.46
+CVE-2017-16527: Fixed with 4.1.46
+CVE-2017-16528: Fixed with 4.1.47
+CVE-2017-16529: Fixed with 4.1.46
+CVE-2017-16530: Fixed with 4.1.46
+CVE-2017-16531: Fixed with 4.1.46
+CVE-2017-16532: Fixed with 4.1.47
+CVE-2017-16533: Fixed with 4.1.46
+CVE-2017-16534: Fix not seen in stream
+CVE-2017-16535: Fixed with 4.1.46
+CVE-2017-16536: Fixed with 4.1.48
+CVE-2017-16537: Fixed with 4.1.47
+CVE-2017-16538: Fix not seen in stream
+CVE-2017-16643: Fixed with 4.1.46
+CVE-2017-16645: Fixed with 4.1.47
+CVE-2017-16646: Fixed with 4.1.47
+CVE-2017-16647: Fix not seen in stream
+CVE-2017-16649: Fix not seen in stream
+CVE-2017-16650: Fixed with 4.1.47
+CVE-2017-16911: Fix not seen in stream
+CVE-2017-16912: Fix not seen in stream
+CVE-2017-16913: Fix not seen in stream
+CVE-2017-16914: Fixed with 4.1.49
+CVE-2017-16939: Fixed with 4.1.48
+CVE-2017-16994: Fixed with 4.1.47
+CVE-2017-16995: Fix not seen in stream
+CVE-2017-16996: Fix not seen in stream
+CVE-2017-17053: Fix not seen in stream
+CVE-2017-17448: Fix not seen in stream
+CVE-2017-17449: Fix not seen in stream
+CVE-2017-17450: Fix not seen in stream
+CVE-2017-17558: Fixed with 4.1.49
+CVE-2017-17712: Fix not seen in stream
+CVE-2017-17741: Fix not seen in stream
+CVE-2017-17805: Fixed with 4.1.49
+CVE-2017-17806: Fixed with 4.1.49
+CVE-2017-17807: Fix not seen in stream
+CVE-2017-17852: Fix not seen in stream
+CVE-2017-17853: Fix not seen in stream
+CVE-2017-17854: Fix not seen in stream
+CVE-2017-17855: Fix not seen in stream
+CVE-2017-17856: Fix not seen in stream
+CVE-2017-17857: Fix not seen in stream
+CVE-2017-17862: Fix not seen in stream
+CVE-2017-17863: Fix not seen in stream
+CVE-2017-17975: Fix unknown
+CVE-2017-18017: Fixed with 4.1.43
+CVE-2017-18079: Fixed with 4.1.44
+CVE-2017-18174: Fix not seen in stream
 CVE-2017-2583: Fix not seen in stream
 CVE-2017-2584: Fix not seen in stream
-CVE-2017-2596: Fix not seen in stream
+CVE-2017-2596: Fixed with 4.1.41
 CVE-2017-2618: Fixed with 4.1.39
-CVE-2017-2636: Fix not seen in stream
+CVE-2017-2636: Fixed with 4.1.49
+CVE-2017-2671: Fixed with 4.1.41
 CVE-2017-5549: Fixed with 4.1.39
 CVE-2017-5551: Fix not seen in stream
-CVE-2017-5669: Fix not seen in stream
+CVE-2017-5669: Fixed with 4.1.40
+CVE-2017-5715: Fix unknown
+CVE-2017-5753: Fix unknown
+CVE-2017-5754: Fix unknown
 CVE-2017-5897: Fix not seen in stream
 CVE-2017-5967: Fix not seen in stream
 CVE-2017-5970: Fix not seen in stream
 CVE-2017-5972: Fix not seen in stream
 CVE-2017-5986: Fix not seen in stream
 CVE-2017-6001: Fix not seen in stream
-CVE-2017-6074: Fix not seen in stream
+CVE-2017-6074: Fixed with 4.1.41
 CVE-2017-6214: Fix not seen in stream
-CVE-2017-6345: Fix not seen in stream
-CVE-2017-6346: Fix not seen in stream
+CVE-2017-6345: Fixed with 4.1.49
+CVE-2017-6346: Fixed with 4.1.49
 CVE-2017-6347: Fix not seen in stream
-CVE-2017-6348: Fix not seen in stream
+CVE-2017-6348: Fixed with 4.1.49
 CVE-2017-6353: Fix not seen in stream
-CVE-2017-7184: Fix unknown
-CVE-2017-7187: Fix unknown
-CVE-2017-7261: Fix unknown
+CVE-2017-7184: Fixed with 4.1.49
+CVE-2017-7187: Fixed with 4.1.40
+CVE-2017-7261: Fixed with 4.1.40
+CVE-2017-7273: Fixed with 4.1.39
+CVE-2017-7294: Fixed with 4.1.40
+CVE-2017-7308: Fixed with 4.1.41
+CVE-2017-7346: Fix not seen in stream
+CVE-2017-7472: Fixed with 4.1.40
+CVE-2017-7482: Fixed with 4.1.43
+CVE-2017-7487: Fixed with 4.1.41
+CVE-2017-7495: Fixed with 4.1.31
+CVE-2017-7518: Fixed with 4.1.47
+CVE-2017-7533: Fix not seen in stream
+CVE-2017-7541: Fixed with 4.1.43
+CVE-2017-7542: Fixed with 4.1.44
+CVE-2017-7616: Fixed with 4.1.41
+CVE-2017-7618: Fixed with 4.1.40
+CVE-2017-7645: Fixed with 4.1.40
+CVE-2017-7889: Fixed with 4.1.41
+CVE-2017-7895: Fixed with 4.1.40
+CVE-2017-8064: Fixed with 4.1.41
+CVE-2017-8797: Fix not seen in stream
+CVE-2017-8824: Fix not seen in stream
+CVE-2017-8831: Fixed with 4.1.44
+CVE-2017-8890: Fixed with 4.1.42
+CVE-2017-8924: Fixed with 4.1.40
+CVE-2017-8925: Fixed with 4.1.40
+CVE-2017-9074: Fixed with 4.1.42
+CVE-2017-9075: Fixed with 4.1.42
+CVE-2017-9076: Fix not seen in stream
+CVE-2017-9077: Fix not seen in stream
+CVE-2017-9242: Fixed with 4.1.42
+CVE-2017-9605: Fix not seen in stream
+CVE-2017-9984: Fixed with 4.1.45
+CVE-2017-9985: Fixed with 4.1.45
+CVE-2017-9986: Fix not seen in stream
+CVE-2018-1000004: Fix not seen in stream
+CVE-2018-1000026: Fix not seen in stream
+CVE-2018-5332: Fix not seen in stream
+CVE-2018-5333: Fix not seen in stream
+CVE-2018-5344: Fix not seen in stream
+CVE-2018-5750: Fix unknown
+CVE-2018-6412: Fix unknown
+CVE-2018-6927: Fix not seen in stream

@@ -1,19 +1,30 @@
 # linux_kernel_cves
 This is a simple project to track CVEs in the upstream linux kernel. 
+Individual distro's (RHEL, Debian, Ubuntu, etc) often do a good job of 
+tracking CVEs for their own kernels but this information is lacking for 
+the upstream kernel. This project aims to help out with this void. 
 Currently all output for this is stored in the CVEs.txt file. The output
 was generated automatically through a set of tools that has not been 
 fully tested or made public yet. There are separate files for each LTS 
 stream. These files list all CVEs that possibly affect that stream and 
 when/if they were fixed.
 
+### Linux Security Note
+Tracking, mitigating, and patching CVEs is just a small part of 
+maintaining a secure kernel.  Let me be clear, you can patch all known 
+CVEs and still be vulnerable. Some risk can be mitigated through 
+properly configuring your kernel/system. I suggest you visit the 
+[Kernel Self Protection Project][1] and other kernel security pages for more 
+information.
+
 ### Reading stream reports
 
 Below is a list of definitions for certain strings you might see in a 
-stream report. **The only CVEs that should appear in the stream document 
-are ones that potentially affect that stream.** (ie. ones that were not 
-fixed prior to the first release version and were not introduced after 
-the release version) If no fixing commit is known for a CVE, then by 
-default it is assumed to present in all streams after it was introduced.
+stream report. **The only CVEs that should appear in the stream 
+document are ones that potentially affect that stream.** (ie. ones that 
+were not fixed prior to the first release version and were not introduced 
+after the release version) If no fixing commit is known for a CVE, then 
+by default it is assumed to present in all streams after it was introduced.
 
   - 'Fix unknown': No fixing commit in the commit maps or the commit is 
   invalid
@@ -23,7 +34,6 @@ default it is assumed to present in all streams after it was introduced.
   but not seen in this stream (ie. stream is still vulnerable)
   
 ### Overview of Process
-
 The process for generating these documents is focused on being as 
 automated as possible. Below is the general outline of steps.
 
@@ -39,7 +49,7 @@ automated as possible. Below is the general outline of steps.
   vulnerable perform steps 6 through 8.
   6) Find the commit who has the commit message that matches the commit 
   message from the mainline. This is the fixing commit in that stream. 
-  7) Record the commit id and git the earliest tag in the stream which 
+  7) Record the commit id and get the earliest tag in the stream which 
   has that commit.
   8) Output information to stream document. 
   9) Update JSONs.
@@ -67,3 +77,5 @@ course be accepted.
   - If a commit fixes a previous incomplete fix the version timeline 
   may not be correct (Update: In progress)
   - Haven't verified if all CVEs are on the list yet (in the works)
+
+[1]: https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project
